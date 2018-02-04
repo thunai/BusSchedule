@@ -1,0 +1,874 @@
+Victoria St,01012,Hotel Grand Pacific,01013,St. Joseph's Ch,01019,Bras Basah Cplx,01059,Bugis Stn,01112,Opp Bugis Junction,01113,Bugis Stn,01119,Bugis Junction,01121,Stamford Pr Sch,01129,Opp Stamford Pr Sch,01211,Opp Blk 461,01219,Blk 461,04151,Cath Of The Good Shepherd,04159,Aft Chijmes
+Nth Bridge Rd,01029,Cosmic Insurance Bldg,01039,Nth Bridge Commercial Cplx,01139,Parkview Sq,01229,Bef Sultan Mque,01329,Blk 8,04167,St. Andrew's Cath,04168,Opp Peninsula Plaza,04249,Opp The Treasury,E0400,Non Stop
+Queen St,01109,Queen St Ter
+Jln Sultan,01231,Opp Textile Ctr,01239,Sultan Plaza
+Kallang Rd,01311,Lavender Stn,01319,Lavender Stn,80011,Opp Sri Manmatha K Tp,80029,Aft Kallang Rd ERP Gantry
+Crawford St,01339,Bef Crawford Bridge,01341,Southbank,01349,Opp Blk 4
+Beach Rd,01411,Keypoint Bldg,01419,St. John HQ,01421,Opp Golden Mile Cplx,01429,Golden Mile Cplx,01511,Opp The Gateway,01519,The Gateway,01521,Opp Plaza Parkroyal,01529,Plaza Parkroyal,01611,Raffles Hotel,01619,Opp Raffles Hotel,01621,Opp Shaw Twrs,01629,Shaw Twrs
+Rochor Rd,01541,Aft Beach Rd,07551,Fu Lu Shou Cplx,E0205,Non Stop
+Ophir Rd,01549,Near Bali Lane,01559,Landmark Village Hotel,07589,Opp Rochor Ctr,E0702,Non Stop
+Middle Rd,01631,Aft Beach Rd,01639,Bef Beach Rd,07561,Opp Midlink Plaza,07569,Midlink Plaza,07571,Opp Prime Ctr
+Fullerton Rd,02011,Victoria Concert Hall,03011,Fullerton Sq
+Connaught Dr,02029,Opp S'pore Cricket Club
+St. Andrew's Rd,02031,St. Andrew's Cath,E0219,Non Stop
+Bras Basah Rd,02049,Raffles Hotel,04179,NTUC Income Ctr,04189,Manulife Ctr,08069,Rendezvous Grand Hotel,E0402,Non Stop,E0807,Non Stop
+Raffles Ave,02051,Seating Gallery,02061,The Esplanade,02101,Bef Temasek Ave,E0201,Non Stop,P2051,S'pore Flyer
+Raffles Blvd,02089,Pan Pacific Hotel,02099,Marina Ctr Ter,E0200,Non Stop,E2000,Non Stop
+Esplanade Dr,02111,Esplanade Bridge,E0206,Non Stop
+Nicoll Highway,02119,One Raffles Link,80151,Opp Suntec City,80159,Suntec City,80161,The Concourse,80169,Nicoll Highway Stn,80211,Opp Natl Stadium,80219,Natl Stadium,E8000,Non Stop
+Republic Blvd,02129,Aft Raffles Blvd,02139,Bef Republic Ave,E0202,Non Stop
+Temasek Blvd,02141,Suntec Twr Two,02149,Suntec Twr Three,02151,Suntec Convention Ctr,02159,Opp Suntec Convention Ctr
+Temasek Ave,02161,Opp Millenia Twr,02169,Centennial Twr,02171,Opp The Ritz-Carlton
+Parliament Pl,02181,Supreme Ct,E0218,Non Stop
+Collyer Quay,03019,OUE Bayfront,E0302,Non Stop
+Cecil St,03021,Prudential Twr,03151,Opp GB Bldg,E0303,Non Stop
+Robinson Rd,03031,Opp AIA Twr,03071,Opp The Ogilvy Ctr,03111,Aft Capital Twr
+Cross St,03041,Opp PWC Bldg
+Raffles Quay,03059,One Raffles Quay
+Shenton Way,03129,UIC Bldg,03217,Opp AXA Twr,03218,Opp MAS Bldg,E0321,Non Stop
+Palmer Rd,03211,Bef Shenton Way,03219,Aft Shenton Way,03239,Shenton Way Ter,E0323,Non Stop
+Anson Rd,03222,Hub Synergy Pt,03223,Intl Plaza,03241,Mapletree Anson,E0322,Non Stop
+Prince Edward Rd,03299,Prince Edward Rd,03995,Express,E0300,Non Stop
+Marina Stn Rd,03301,Marina Stn Rd,03309,Marina Stn Rd,03359,Aft Marina Street,E0301,Non Stop
+Marina St,03311,Marina Bay Stn,03319,Opp Marina Bay Stn,E0331,Non Stop
+Marina Pl,03321,Bef Marina City Pk,03329,Aft Marina City Pk
+Marina Blvd,03331,Bef Marina Gdns Dr,03381,The Sail,03391,Marina Bay Financial Ctr,E0339,Non Stop
+Central Blvd,03339,Aft Marina Gdns Dr,03529,Downtown Stn,03531,Bef Marina Way,03539,Marina Bay Stn,E0353,Non Stop
+Marina Gdns Dr,03341,Bef Gdns by the Bay,03349,Aft Gdns by the Bay,03369,Marina Barrage,03371,Gdns by the Bay
+Marina Coastal Dr,03411,Opp Marina Sth Pier,03419,Marina Sth Pier,03421,Marina Bay Cruise Ctr
+Bayfront Ave,03501,Marina Bay Sands Theatre,03509,Marina Bay Sands Hotel,03511,Marina Bay Sands MICE,03519,Opp Marina Bay Sands MICE
+ECP,03885,Express,90985,Express,90986,Express,90995,Fort Rd JUNCTION/ECP,90996,Fort Rd JUNCTION/ECP,93996,At Bedok Sth Ave 1/ECP,94099,Aft E.C. Sea Sports Club,ECP,Express
+Bencoolen St,04019,Plaza By The Pk,04029,Aft Prinsep Link,07509,SMU,07517,Opp Burlington Sq,07518,Fortune Ctr
+Stamford Rd,04111,Capitol Bldg,04121,SMU,E0401,Non Stop
+Armenian St,04131,Bef Stamford Rd,E0403,Non Stop
+Hill St,04142,Armenian Ch,04143,Stamford Ct,04149,Grand Pk City Hall,04223,Old Hill St Police Stn,04229,High St Ctr,E0404,Non Stop
+River Valley Rd,04211,Clarke Quay,04219,Opp Clarke Quay,04331,Liang Ct,04339,Opp Liang Ct,13051,Opp Valley Pt Condo,13059,Valley Pt Condo,13062,Mutiara View,13063,Mutiara Crest,13069,Valley Pk Condo,13071,Opp ERC Inst,13079,Aft ERC Inst,13081,Airview Twr,13089,The Morningside,13091,Aft AA Ctr,13099,Bef AA Ctr,13101,Opp Mohd Sultan Rd,13109,UE Sq
+Eu Tong Sen St,04222,Clarke Quay Stn,04231,Clarke Quay Stn,05012,Pearl's Ctr,05013,People's Pk Cplx,05022,People's Pk Ctr,05023,Opp Hong Lim Pk,10017,Aft Hosp Dr,10018,Bef Outram Rd,10589,New Bridge Rd Ter,E0505,Non Stop
+New Bridge Rd,04239,Clarke Quay Stn,05019,Opp Pearl's Ctr,05039,New Bridge Ctr,05049,Chinatown Pt,05059,Hong Lim Pk,05069,Outram Pk Stn,10011,Opp New Bridge Rd Ter,E0405,Non Stop
+Nth Boat Quay,04251,Opp High St Ctr
+Clemenceau Ave,04311,Aft River Valley Rd,04321,Shell HSE,04329,Opp Shell HSE,08011,Opp Haw Par Glass Twr,08019,Aft Haw Par Glass Twr
+Nth Canal Rd,05009,Opp OCBC Ctr,E0501,Non Stop
+Sth Bridge Rd,05029,Boat Quay,05189,Opp Sri Mariamman Tp,05199,Opp Hong Lim Cplx,05269,Maxwell Rd FC
+Upp Pickering St,05129,Hong Lim Pk
+Upp Cross St,05131,Opp Hong Lim Cplx,06171,Opp Subordinate Ct
+Neil Rd,05239,Bef The Pinnacle@Duxton,05259,Aft Kreta Ayer Rd,10021,Blk 3,E0510,Non Stop
+Kreta Ayer Rd,05241,Opp Blk 333
+Tg Pagar Rd,05271,Opp Fairfield Meth Ch,05411,Tg Pagar Plaza,05419,The Amara,05421,Aft Craig Rd,05429,Bef Wallich St,05651,Opp Fuji Xerox Twrs
+Church St,05319,OCBC Ctr
+Cantonment Rd,05519,Opp Maritime Hse,05521,Maritime Hse,05629,Opp Sth Pt,E0508,Non Stop
+Cantonment Link,05631,Blk 16
+Keppel Rd,05641,Customs Port Br HQ,05649,Opp Customs Port Br HQ,14061,Opp Former Railway Stn,14069,Former Railway Stn,14071,Keppel Workshop,14081,Tg Pagar DP Blk F5,14089,Opp Tg Pagar DP Blk F5,14101,Opp Keppel DP Blk 517,14109,Keppel DP Blk 517,E0564,Non Stop,E1411,Non Stop
+Outram Rd,06011,Opp Outram Pk Stn,06029,Outram Pk Stn,06049,BEF OUTRAM FLYOVER,06069,Aft Furama RiverFront
+Chin Swee Rd,06031,Opp Blk 13,06039,Blk 8
+Tiong Bahru Rd,06051,Blk 55,10141,Blk 18,10149,Blk 1,10151,Ctrl Green Condo,10161,Opp Tiong Bahru Plaza,10169,Tiong Bahru Plaza,10171,Henderson Pk,10179,Tiong Bahru Pk,10181,Bef Al-Rabitah Mque,10189,Blk 104A CP,10191,Blk 78,10199,Delta Swim Cplx,10201,Opp Redhill Stn,10209,Redhill Stn
+Zion Rd,06071,Blk 2B,06081,Blk 94,06131,The Boys' Brigade HQ,13121,Opp Great World City
+Kim Seng Rd,06129,Grand Copthorne Hotel,13119,Opp Great World City,13139,The Trillium
+Havelock Rd,06141,Holiday Inn Atrium,06149,Opp Holiday Inn Atrium,06151,Hotel Miramar,06159,Bef Saiboo St,06161,Blk 2,06169,River Pl Condo,06189,Ctrl Sq,E0504,Non Stop
+Selegie Rd,07011,Peace Ctr,07021,Selegie Ctr,E0700,Non Stop
+S'goon Rd,07031,Tekka Ctr,07111,Broadway Hotel,07211,Sri Srinivasa Perumal Tp,07221,Sri Vadapathira K Tp,60101,Kwong Wai Shiu Hosp,60121,Boon Keng Stn,60141,Opp Bendemeer Pr Sch,60161,St. Michael's Pl,60181,Aft Moonstone Lane,E6002,Non Stop
+Kitchener Rd,07231,Bef Tai Hoe Hotel,07239,Opp New Pk Ctrl,07331,Aft King George's Ave
+Lavender St,07241,Umar P Tamil Lang Ctr,07249,Opp Umar P Tamil Lang Ctr,07351,Eminent Plaza,07359,Opp Eminent Plaza,07361,Bef Kallang Bahru,07369,Aft Kallang Bahru,07371,Aft Kallang Rd,07379,Bef Kallang Rd
+Jln Besar,07319,Aft Allenby Rd,07329,Hoa Nam Bldg,07419,Opp Veerasamy Rd,07529,Bef Sim Lim Twr
+Rochor Canal Rd,07531,Rochor Stn
+Sungei Rd,07539,Opp Rochor Stn
+Penang Rd,08031,Dhoby Ghaut Stn,08111,Winsland Hse,E0800,Non Stop
+Orchard Rd,08041,YMCA,08057,Dhoby Ghaut Stn,08058,Macdonald Hse,08137,Orchard Plaza,08138,Concorde Hotel S'pore,09037,Opp Mandarin Orchard,09038,Midpoint Orchard,09047,Tang Plaza,09048,Lucky Plaza,09169,Delfi Orchard,09179,Royal Thai Embassy,E0900,Non Stop
+Prinsep St,08079,Sch of the Arts
+Somerset Rd,08121,Somerset Stn
+Orchard Turn,09011,Opp Ngee Ann City,09023,Orchard Stn
+Orchard Blvd,09022,Opp Orchard Stn,09111,Opp Four Seasons Hotel,09121,Bef Tomlinson Rd,E0911,Non Stop
+Grange Rd,09059,Natl Youth Council,09131,Grange Residences,09139,Aft Cuscaden Rd,13169,Grange 80 Condo,13171,Lucky Twr,13179,Opp Lucky Twr,13181,Aft One Tree Hill,13189,Bef One Tree Hill,E0902,Non Stop
+Napier Rd,09141,British Council,09149,Opp British Council,13011,Opp S'pore Botanic Gdns,13019,S'pore Botanic Gdns
+Tanglin Rd,09159,Aft Tomlinson Rd,10321,Aft Margaret Dr,10329,Crescent Girls' Sch,13031,Opp Chatsworth Rd,13039,Bef Chatsworth Rd,13041,Aft Rochalie Dr,13049,Bef Rochalie Dr,13201,British High Comm,13209,Opp British High Comm
+Tomlinson Rd,09191,The Regent S'pore
+Scotts Rd,09212,Royal Plaza On Scotts,09213,Thong Teck Bldg,09219,Far East Plaza,40171,Opp Env Bldg,40179,Env Bldg,40181,Newton Stn,40189,Newton Stn
+Bt Merah Ctrl,10009,Bt Merah Int,10651,Blk 161,10659,Blk 1003
+Kg Bahru Rd,10039,Bef Hosp Dr,10041,Aft Blair Rd,10049,Aft Jln Bt Merah,10391,Opp Melati Blk 2,10399,Melati Blk 2,14011,Bef Mt Faber Lodge,14019,Opp Mt Faber Lodge,14221,Opp St. Teresa's Ch,14229,St. Teresa's Ch,14231,Keppel DP Blk 519,14239,Opp Keppel DP Blk 519,E1402,Non Stop
+Jln Bt Merah,10051,Blk 149,10059,Opp Blk 149,10061,Blk 140,10069,Opp Blk 140,10071,Blk 111,10079,Blk 201,10081,Opp Blk 120,10089,Blk 119,10091,Bt Merah Town Ctr,10099,Opp Bt Merah Town Ctr,10101,SPRING S'pore Bldg,10109,Opp SPRING S'pore Bldg,10111,Opp Blk 28,10119,Opp Pacific Tech Ctr,10131,Opp Blk 2,10139,Blk 1,10501,Blk 104,11019,Opp OG Fty
+Kim Tian Rd,10121,Blk 126 CP,10129,Blk 121
+Leng Kee Rd,10211,Porsche Ctr S'pore,10219,Opp Motor Image
+Ganges Ave,10221,Ganges Ctr,10229,Opp Harvest Mans,10231,Opp Blk 79,10239,Blk 79
+Alexandra Rd,10241,Gan Eng Seng Sec Sch,10249,Opp Gan Eng Seng Sec Sch,10261,Delta Sports Hall,10269,Opp Delta Sports Hall,10271,Opp Tanglin View,10279,Tanglin View,10281,SIS Bldg,10289,Opp SIS Bldg,10291,Aft SM Motors Ctr,10299,Opp SM Motors Ctr,11511,Alexandra Hosp,11519,Opp Queensway Shop Ctr,11521,Anchorpoint,11529,Bef IKEA Ind Bldg,11531,Opp Lea Hin Hardware Fty,11539,Lea Hin Hardware Fty,15041,NOL Bldg,15049,Opp NOL Bldg,15051,Alexandra Pt,15059,Opp Alexandra Pt,18011,SP Jain,18019,Opp SP Jain,E1500,Non Stop
+Margaret Dr,10301,Opp Blk 108,10309,Blk 118,10311,Opp Queenstown Sec Sch,10319,Queenstown Sec Sch,11469,Queensway Sec Sch,11471,Opp The Fisherman Ch,11479,The Fisherman Ch,11481,Queenstown Lib,11489,Opp Queenstown Lib,11491,Opp Queenstown Pr Sch,11499,Queenstown Pr Sch
+Henderson Rd,10331,Bef Bt Merah Ctrl,10339,Aft Bt Merah Ctrl,10341,Henderson Sec Sch,10349,Blk 116,10351,Blk 96,10359,Bet Blks 110/113,14041,Blk 54,14049,Opp Blk 55,14051,Aft Telok Blangah Hts,14059,Bef Telok Blangah Hts,14241,Opp Blk 1,14249,Blk 1
+Lower Delta Rd,10361,Cendex Ctr,10369,Opp Cendex Ctr,10371,Blk 129,10379,Blk 25B,10381,Opp Blk 48,10389,Blk 48,14021,BEF TELOK BLANGAH RISE,14029,Blk 105,14031,St. Theresa's Convent,14039,Opp St. Theresa's Convent,14379,Blk 40
+Hoy Fatt Rd,10401,Shriro Hse,10409,Blk 50,10411,Opp Blk 53,10419,Blk 52
+Lengkok Bahru,10421,Blk 63B,10429,Blk 54,10431,Bt Merah Skills Dev Ctr,10439,Blk 55,10441,Opp Blk 44,10449,Blk 44
+Redhill Rd,10451,Opp Blk 71,10459,Blk 72
+Kay Siang Rd,10461,Aft Margaret Dr,10469,Bef Margaret Dr,10471,Bef Tanglin Rd,10479,Aft Tanglin Rd
+Redhill Cl,10481,Opp Blk 73,10489,Blk 73
+Delta Rd,10519,Blk 4,E1000,Non Stop
+Jln Rumah Tinggi,10599,Opp Blk 36
+CTE,10985,Express,10986,Express,10991,Express,10992,Express,10995,Express,10996,Express,52541,Opp St. Wilfred,52549,Near St. Wilfred,52995,Express,52996,Express,CTE,Express
+Ghim Moh Rd,11009,Ghim Moh Ter,11351,Blk 13,11359,Blk 12,12121,Blk 7,12129,Blk 3
+Queensway,11021,Aft Queenstown NPC HQ,11029,Blk 166,11031,Opp Queen's Cl,11039,Blk 19,11041,Aft C'wealth Dr,11049,Opp Blessed Sacrament Ch,11051,Opp Queenstown Polyclinic,11059,Queenstown Polyclinic,11061,Opp Queensway Sec Sch,11069,Queensway Sec Sch,11071,Blk 97,11079,Opp Blk 95,11081,Viz Holland,11089,Opp Holland Hill Lodge,E1101,Non Stop
+Farrer Rd,11091,Tulip Gdn,11099,Opp Tulip Gdn,11101,Farrer Rd Mkt,11109,Spanish Village,11111,Farrer Rd Stn,11119,Opp Farrer Rd Stn,41101,St. Margaret's Sec Sch,41109,Opp St. Margaret's Sec Sch,41111,Lutheran Twrs,41119,Opp Lutheran Twrs
+C'wealth Ave,11131,Queens Condo,11139,Blk 53A CP,11141,Queenstown Stn,11149,Queenstown Stn,11151,Blk 42,11159,Aft Ch Of Our Saviour,11161,C'wealth Stn,11169,C'wealth Stn,11171,Opp Blk 7B,11179,Blk 8,11181,Opp Blk 43,11189,Blk 43
+C'wealth Ave West,11191,Buona Vista Stn,11199,Blk 15,17151,Blk 410,17159,Blk 365,17161,Opp Blk 329,17169,Blk 329,17171,Clementi Stn,17179,Clementi Stn,17181,Opp Blk 317,17189,Blk 317,19011,Blk 19A CP,19019,Opp Blk 19A CP,19021,SP SMA,19029,Opp SP SMA,19031,Dover Stn,19039,Dover Stn,19041,Opp Sch Of Science & Tech,19049,Sch Of Science & Tech,20101,Nan Hua Pr Sch,20109,Blk 203,28011,Aft ITE West (Clementi),28019,Aft Toh Tuck Ave,E1700,Non Stop
+Holland Rd,11201,CSC Dempsey Clubhse,11209,Opp Peirce Rd,11211,Aft Peirce Rd,11219,Great Eastern Mans,11221,Lien Twrs,11229,Les Jardins De Holland,11231,Aft Estoril Mans,11239,Fairlodge,11261,Holland Village,11269,Opp Holland Village,11271,Aft East Sussex Lane,11279,Aft Coronation Rd West,11281,Aft Tan Boon Chong Ave,11289,Opp Tan Boon Chong Ave,11291,Cold Storage Jelita,11299,Opp Cold Storage Jelita,12021,Bef Moonbeam Walk,12029,Opp Moonbeam Walk,13021,Aft Min Of Foreign Affairs,13029,Bef Tyersall Ave
+Holland Dr,11259,Opp Blk 21,11381,Blk 10A,11389,Blk 46
+Sixth Ave,11301,Hse No. 578,11309,Hse No. 589,11311,Hse No. 532,11319,Opp Hse No. 516,11321,Opp Regent Villa,11329,Regent Villa,11331,Opp Dynasty Gdn II,11339,Dynasty Lodge,11341,Garlick Ville,11349,Opp Garlick Ville,42129,Sixth Ave Ville,42131,Aft Lantana Ave,42139,Ave Villa
+Nth Buona Vista Rd,11361,Buona Vista Stn,11369,Opp Buona Vista Stn,11379,Buona Vista Ter,18141,Aft Anglo-Chinese JC,18149,Opp Anglo-Chinese JC
+Holland Ave,11401,Blk 12,11409,Blk 9,11419,Holland Village Stn
+C'wealth Dr,11429,Opp Blk 115B,11439,Blk 92,11441,Blk 58,11449,Blk 37B,11451,Blk 72,11459,Blk 50
+Stirling Rd,11541,Opp Queens,11551,Tiong Ghee Tp,11561,Blk 166
+Mei Ling St,11579,Blk 158,11589,Blk 157,11599,Blk 153
+Mei Chin Rd,11609,Blk 163
+Ulu Pandan Rd,12031,Pandan Valley Condo,12039,Opp Pandan Valley Condo,12041,Aft Pandan Valley,12049,Opp Pandan Valley,12051,Pine Gr Condo,12059,Opp Pine Gr Condo,12111,Bef Clementi Rd,12119,Police KINS Trg Camp
+Clementi Rd,12061,Blk 109,12069,Opp Blk 109A,12071,Blk 116,12079,Opp Blk 116,12081,Maju Camp,12089,Opp Maju Camp,12091,SIM HQ,12099,Opp SIM HQ,12101,Ngee Ann Poly,12109,Opp Ngee Ann Poly,16009,Kent Ridge Ter,16131,Opp Kent Ridge Ter,16139,Bef Kent Ridge Ter,16141,Tentera Diraja Mque,16149,NUS Fac Of Architecture,16151,The Japanese Pr Sch,16159,NUS Fac Of Engrg,17091,Aft Clementi Ave 1,17099,Aft Dover Rd,17101,Blk 352,17109,Opp Blk 352,17111,Blk 343,17119,Opp Blk 343,17191,NUS High Sch,42141,Bef Dunearn Rd,42149,Aft Bukit Timah Rd,E1206,Non Stop
+Mt Sinai Rd,12131,Aft Grove Rd,12139,Aft Mt Sinai Lane
+Mt Sinai Dr,12141,Opp Henry Pk Apts,12149,Henry Pk Apts,12211,Bet Hse Nos.33/35
+Moonbeam Walk,12151,Evian Condo
+Pandan Valley,12169,Pandan Valley
+Mt Sinai Rise,12179,Montview,12189,Bef Mt Sinai Dr,12199,Opp Village Twr
+Clementi Ave 6,12201,Logishub @ Clementi,12209,Opp Logishub @ Clementi,17051,Blk 436,17059,Regent Pk,17371,Blk 201,17379,Blk 304,E1702,Non Stop
+Hoot Kiam Rd,13141,Aft Zion Full Gospel Ch
+Irwell Bank Rd,13159,Bef Zion Full Gospel Ch
+Paterson Rd,13191,Paterson Lodge,13199,Opp Paterson Lodge,E1300,Non Stop
+Mohd Sultan Rd,13211,Aft Unity St,N1309,LP 11
+Seah Im Rd,14009,HarbourFront Int,E1403,Non Stop
+Telok Blangah Rd,14119,Opp VivoCity,14121,HarbourFront Stn,14129,HarbourFront Stn,14131,Caribbean at Keppel Bay,14139,Bef Seah Im Rd,14141,VivoCity,14149,Aft HarbourFront Stn,14151,Opp Chr CC Chapel,14159,Bef Chr CC Chapel,14161,Telok Blangah Stn,14169,Opp Telok Blangah Stn,14171,Opp Yeo's Bldg,14179,Yeo's Bldg,14189,Aft Alexandra Rd,E1401,Non Stop,E1404,Telok Blangah Rd
+Depot Rd,14191,Blk 104B,14199,Blk 118,14201,Blk 109B,14209,Aft Hewlett Packard,14211,ISS Intl Sch,14219,Opp Blk 114,14369,The Interlace,14471,Blk 114
+Telok Blangah Cres,14259,Blk 11,14269,Blk 10
+Telok Blangah Way,14271,Al-Amin Mque,14279,Blk 25,14281,Opp Blk 11,14291,Blk 27,14299,Opp Blk 27
+Telok Blangah Rise,14309,Blk 41,14319,Blk 28,14489,Blk 36 Mkt/FC
+Telok Blangah St 32,14329,Blk 67
+Telok Blangah Hts,14331,Aft Telok Blangah St 32,14339,Bef Telok Blangah St 32,14341,Opp Blk 59,14349,Blk 59,14391,Opp Blk 85,14399,Blk 85
+Telok Blangah Dr,14351,Blk 48,14359,Blk 50,14491,Opp Telok Blangah Mkt/FC,14499,Telok Blangah Mkt/FC
+Bt Purmei Ave,14381,Blk 109,14389,Opp Blk 109
+Labrador Villa Rd,14401,Opp The Furniture Warehse,14409,Opp Blk 3B,14419,CP A
+Port Rd,14429,CP B
+Mt Faber Rd,14431,Mt Faber Lodge,14441,Marina Deck,14451,Aft Jewel Box
+Maritime Sq,14461,HarbourFront Twr Two
+Sentosa Gateway,14519,Resorts World Sentosa
+Sth Buona Vista Rd,15071,Buona Vista Gdns,15079,Aft Lor Sarhad,15091,Opp Natl Leadership Inst,15099,Natl Leadership Inst,15101,Opp LP 31,15109,LP 30,15111,LP 37,15119,LP 36,15121,LP 49,15129,Opp LP 48,15131,Kent Ridge Stn,15139,Opp Kent Ridge Stn
+Pasir Panjang Rd,15141,Opp PSA Bldg,15149,PSA Bldg,15151,Bayanihan Ctr,15159,Mapletree Business City,15161,Pasir Panjang Ctr,15169,Harbourside Ind Bldg 2,15191,Pasir Panjang Stn,15199,Opp Currency Hse,15201,Aft PSA Wharves G3,15209,Opp PSA Wharves G3,15211,Opp Pasir View Pk,15219,Pasir View Pk,15221,Redwood West,15229,Opp Redwood West,16011,Opp Haw Par Villa Stn,16019,Haw Par Villa Stn,16021,Opp Gloria Man,16029,Gloria Man,16031,Opp S'pore Science Pk II,16039,S'pore Science Pk II,16041,Opp The Longhouse,16049,Westvale,16051,The Crystal Tabernacle Ch,16059,Jamiyah Halfway Hse,16061,Opp Heng Mui Keng Terr,16069,Heng Mui Keng Terr,16071,Opp Pasir Panjang PO,16079,Bef Pasir Panjang PO,16081,Aft Palm Green Condo,16089,Aft Clementi Rd,16201,Barossa Gdns,16209,Opp Barossa Gdns,E1501,Non Stop
+Science Pk Dr,15181,PSB S'pore,15189,DNV Technology Ctr,18241,PSB Science Pk Annex,18249,Aft The Pasteur,18251,Opp Reuters,18261,Opp DSO Natl Laboratories,18269,Bef Reuters,18271,Blk 85,18279,Opp Blk 85,18281,The Rutherford,18289,Opp The Rutherford
+AYE,16091,Opp SIT Dover,16099,SIT Dover,17121,Blk 610,17129,Aft NUS High Sch,17131,Clementi Flyover,17139,Aft Clementi Swim Cplx,17141,Clementi Stadium,17149,Blk 426,18041,Normanton Pk,18049,Opp Normanton Pk,18131,Science Pk,20011,Blk 506,20019,Blk 431,20021,Hong Leong Shop Ctr,20029,Opp Hong Leong Shop Ctr,20031,The Infiniti,20039,Opp The Infiniti,20051,Cycle & Carriage,20059,Opp Cycle & Carriage,AYE,Express
+Science Pk Rd,16101,Inst Of Micro-Electronics,16109,The Alpha,16111,Aries,16119,Teletech Pk,16121,Galen
+Kent Ridge Cres,16161,Museum,16169,NUS Raffles Hall,16171,Yusof Ishak Hse,16179,Opp Yusof Ishak Hse,16181,Ctrl Lib,16189,Computer Ctr,16191,Opp NUS Fac Of Architect,16199,NUS Fac Of Design & Env
+West Coast Highway,16211,Wharves Bldg,16219,Opp Wharves Bldg,16221,Opp Haw Par Villa Stn,16229,Haw Par Villa Stn,16231,Wholesale Ctr,16239,Opp Wholesale Ctr,16241,Bef West Coast Pk,16249,Bef Wholesale Ctr,17291,West Coast Pk,17299,Opp West Coast Pk,17301,LP 111,17309,LP 112,17311,Emerson Process,17319,Blk 716,17321,Tien Wah Press Bldg,17329,Blk 705,17331,Opp Blk 518,17339,Blk 518,17351,Aft Clementi Rd,17359,Bef Clementi Rd,17361,Opp West Coast Link,17369,Aft West Coast Link,20281,Opp The Japanese Sec Sch,20289,The Japanese Sec Sch,E1600,Express
+Clementi Ave 1,16891,Opp Blk 420A,16991,Opp Nan Hua High Sch
+Clementi Ave 3,17009,Clementi Int,17239,NTUC Fairprice
+West Coast Rd,17011,Opp Varsity Pk,17019,Varsity Pk,17021,Waseda S Snr High Sch,17029,Opp Waseda S Snr High Sch,17031,Kent Ridge Sec Sch,17039,Opp Kent Ridge Sec Sch,17041,Blk 726 Clementi West Mkt,17049,Blk 601,17061,Blk 701,17069,Opp Blk 701,17071,Blk 513,17079,Blk 512,17381,West Bay Resort Condo,17389,Opp West Bay Resort Condo,20121,Opp Blk 51,20129,Bet Blks 50/51,20131,S'pore Food Industries Bldg,20139,Opp Angliss Bldg,20141,Opp Blk 408,20149,Blk 408,20151,Opp Blk 411,20159,Blk 411,20161,Opp Blks 34/35,20169,Blk 35,20171,Opp Blk 47,20179,Aft Teban Gdns Rd,20291,Tanglin Sec Sch,20299,Opp Tanglin Sec Sch
+West Coast Link,17081,Aft West Coast Highway
+Clementi Ave 4,17201,Blk 308,17211,Bet Blks 315/318,17219,Blk 376
+Clementi Ave 5,17221,Blk 377,17229,Blk 335
+Clementi Ave 2,17241,Blk 334,17249,Blk 355,17251,Opp Blk 408,17259,Blk 408
+Clementi West St 2,17269,Blk 730,17279,Blk 723,17289,West Coast CC
+Harbour Dr,17349,Pasir Panjang Ter Bldg
+Sunset Way,17399,Opp Freesia Woods Condo,17409,Hse No. 90,17419,Sunset Way P/G,17429,Aft Sunset Vale
+Ayer Rajah Cres,18021,Opp GEMPLUS,18029,Tempco Mfg,18039,Basement Food Ct,18061,Blk 71,18069,Opp Blk 71,18081,Blk 55,18089,S'pore Post,18099,Ayer Rajah Bus Pk
+Ayer Rajah Ave,18051,one-north Stn,18059,Opp one-north Stn
+Buona Vista Flyover,18071,NUH,18079,Opp NUH,18101,PSB Science Pk Bldg,18109,Opp PSB Science Pk Bldg,18121,Opp Ayer Rajah Ind Est,18129,Ayer Rajah Ind Est,E1800,Non Stop
+Dover Rd,18111,Fairfield Meth Pr Sch,18119,Opp Fairfield Meth Pr Sch,19051,New Town Sec Sch,19059,University Town,19061,Ayer Rajah Telecoms,19069,Opp Ayer Rajah Telecoms,19071,Opp United World College,19079,Bef Dover Ct Prep Sch,19081,Opp ACS Boarding Sch,19089,United World College
+Portsdown Rd,18151,Opp one-north Stn,18159,one-north Stn,18171,Bef Weyhill Cl,18179,Opp Weyhill Cl,18181,Opp Tanglin Trust Sch,18189,Tanglin Trust Sch,18191,Bef Whitchurch Rd,18199,Aft Whitchurch Rd,18209,Bef All Saints Chapel,18211,Infinite Studios
+Media Circle,18201,Mediapolis Campus
+Lower Kent Ridge Rd,18221,NUH,18239,Opp NUH,18301,Lim Seng Tjoe Bldg (LT 27),18309,Blk S17,18311,Blk S12,18319,Opp University Hall,18321,Opp University Health Ctr,18329,University Health Ctr,18331,Kent Ridge Stn,18339,Opp Kent Ridge Stn,N1801,Kent Ridge Hall,N1809,Opp Kent Ridge Hall,N1811,Sheares Hall,N1819,Opp Sheares Hall
+Dover Ave,19091,S'pore Poly,19099,Opp S'pore Poly
+Jln Ahmad Ibrahim,20061,Aft Jurong Town Hall Rd,20069,Bef Jurong Town Hall Rd,20081,Carrier S'pore,20089,Opp Carrier S'pore,21011,Aft Jurong Lake,21019,Aft Yuan Ching Rd,21021,Bef Jurong Port Rd,21029,Aft Corporation Pl,22011,Jurong Bird Pk,22019,Opp Jurong Bird Pk,22021,Opp PCI,22029,PCI,22031,Sankyu S'pore,22039,Markono Holdings,23011,Carrier Transicold Pte Ltd,23019,Nippon Paint,23021,General Motors,23029,Stamford Tyre,23031,Phillips Electronics,23039,Opp Phillips Electronics,24011,M.C. Packaging Pte Ltd,24019,Liang Huat Ind Cplx,24021,Meritor Heavy Veh Systems,24029,Mazak S'pore,25219,Matsushita Technology,25221,Raffles Country Club,25229,Crown Beverage Cans S'pore,25231,Opp Asia-Pacific Brewery,25239,Asia-Pacific Brewery,25249,Aft Tuas West Rd,25259,Bef Tuas West Dr,25269,Tuas Checkpt
+Pandan Gdns,20181,Ayer Rajah CC,20189,Opp Ayer Rajah CC,20191,Blk 407,20199,Blk 410
+Teban Gdns Rd,20201,Teban Gdn PO,20209,Bef Jurong Town Hall Rd,20211,Blk 41,20219,Opp Blk 41,20231,Bef Hasanah Mque,20239,Aft Hasanah Mque
+Penjuru Rd,20241,Opp Blk 51,20249,Blk 54,29011,Opp Sanmina-SCI,29019,Sanmina-SCI,29021,Aft Jln Buroh,29029,Opp Sunlight Timber,29031,S'pore Wood Ind,29039,Opp S'pore Wood Ind,29159,Aft Teban Gdns Cres
+Jurong Town Hall Rd,20251,Bef Teban Gdns Rd,20259,C'wealth Sec Sch,20261,Aft Pandan Gdns,20269,Bef Pandan Gdns,20271,Opp German Ctr,28221,Opp Intl Business Pk,28229,German Ctr,28231,Jurong Town Hall,28239,Opp Jurong Town Hall,28241,Opp Jurong East Lib,28249,Jurong East Lib,28251,S'pore Science Ctr,28259,Opp S'pore Science Ctr,28261,Aft S'pore Science Ctr,28269,Blk 118,28271,Opp Blk 114,28279,Blk 114,28281,Parc Oasis,28289,Blk 228,28291,Blk 303,28299,Blk 253,28309,Intl Business Pk,E2203,Non Stop
+Pandan Loop,20301,Opp Blk 19,20309,Blk 19,20311,Opp Blk 24,20319,Blk 24,20329,S'pore Food Ind,20331,Vejoil Pte Ltd,20341,Pan Tech Ind Cplx
+Jurong Port Rd,21041,Aft Jln Terusan,21049,Bef Jln Terusan,21069,Bef Jln Tepong,21141,Aft Jln Buroh,21149,Jurong Port Workshops,21151,CWT Distripark,21159,Sin Soon Huat
+Jln Boon Lay,21051,BEF JLN BOON LAY,21059,AFT JLN BOON LAY,21311,Bef Tractor Rd,21319,Opp Tractor Rd,21321,BRC Weld Mesh Fty,21329,Opp BRC Weld Mesh Fty,21331,Opp Premier Milk Pte Ltd,21339,Premier Milk Pte Ltd,21341,Opp Beecham Pte Ltd,21349,Beecham Pte Ltd,21351,BEF BOON LAY WAY,21359,AFT ST KINETICS,21361,Blk 695,21369,Opp Blk 695,21371,Blk 680C,21379,Blk 263,E2102,Non Stop
+Jln Buroh,21071,Jurong Abattoir,21079,Opp Jurong Abattoir,21111,Aft Jurong Pier Rd,21119,Bef Jurong Pier Rd,21121,SPC Svc Stn,21129,Opp SPC Svc Stn,21131,Bef Jurong Port Rd,21139,Aft Jurong Port Rd,22041,Aft Tg Kling Rd,22049,Bef Tg Kling Rd,22051,Opp Sembawang Kimtrans,22059,Sembawang Kimtrans,22061,Opp Cooling Sys Pte Ltd,22069,Cooling Sys Pte Ltd,22071,Bef Jurong Pier Rd,22079,Aft Jurong Pier Rd,29051,Opp Caltex S'pore,29059,Caltex S'pore,29069,Aft Pandan Rd
+Fishery Port Rd,21089,Bef Jln Buroh
+Jurong Pier Way,21099,Jurong Island Checkpt
+Jln Tepong,21109,Ctrl Fish Proc Fty
+Corporation Rd,21161,Blk 220,21169,Jurong JC,21171,Opp Corporation Pl,21179,Corporation Pl,21181,Opp Blk 5,21189,Blk 5,21191,Jurong Stadium,21199,Opp Jurong Stadium,21201,Sime Rengo Packaging Ltd,21209,Opp Sime Rengo Packaging Ltd,21211,Opp Lakepoint Condo,21219,Lakepoint Condo,21229,Opp S'pore Aerospace Mfg,21231,Blk 203,21239,Opp Blk 203,21271,Opp Assyakirin Mque,21279,Assyakirin Mque,21711,Bet Blks 523/525,21719,Opp Blk 529,E2100,Non Stop
+Boon Lay Ave,21241,Blk 220,21249,Blk 213,21391,River Valley High Sch,21399,Opp River Valley High Sch,21421,Blk 176,21429,Blk 185
+Chin Bee Dr,21251,Sime Darby,21259,Opp Sime Darby
+Quality Rd,21261,AFT CHIN BEE AVE,21269,Unit 53,21491,Bef Boon Lay Way,21499,Bef Jln Tukang,21501,BEF MEJI SEIKA,21509,Opp Meiji Seika
+Jurong Pier Rd,21281,Aft Jurong Pier Way,21289,Jurong Power Stn,21291,Opp Bilcon Ind,21299,Aft Bilcon Ind,21301,Opp Jln Pesawat,21309,Aft Jln Pesawat
+Jurong West Ave 2,21381,St. Joseph's Home,21389,Opp St. Joseph's Home
+Boon Lay Dr,21409,Blk 191,21411,Opp Blk 188,21419,Blk 188,21451,Blk 206,21459,Blk 209
+Boon Lay Pl,21431,Blk 210,21439,Boon Lay CC,21441,Blk 207,21449,Boon Lay Shop Ctr
+Jln Tukang,21461,BEF TUKANG INNOVATION DR,21469,Bef Chia Ping Rd,21471,AFT TUKANG INNOVATION DR,21479,Hup Leck Heavy Equipment,21481,GRUNDFOS,21489,OPP GRUNDFOS
+Chin Bee Ave,21511,Opp Amoy Canning,21519,Amoy Canning,21521,PB Packaging Systems,21529,Opp Grandluxe
+Third Chin Bee Rd,21531,Clariant S'pore,21539,Opp Kaily Packaging
+Intl Rd,21541,Jurong Town Swim Cplx,21549,Automotive Technology,22219,Aft Neythal Rd,22221,Aft Pioneer Rd Nth,22229,Bef Pioneer Rd Nth,23151,Containers Printers,23159,Aft Fifth Lok Yang Rd,23161,Promoter Group,23169,Bef Kian Teck Rd,23171,SKK (S) Pte Ltd,23179,Aft Second Lok Yang Rd,23181,Aft Kian Teck Rd,23189,Bef First Lok Yang Rd,23481,Molex,23489,Opp Molex
+Yung Ho Rd,21551,Blk 151,21559,CISCO Recall,21771,Aft Corporation Dr,21779,Aft Yuan Ching Rd
+Corporation Dr,21561,Blk 158,21569,Opp Blk 158,21571,Opp Jurong Sec Sch,21579,Jurong Sec Sch,21581,Blk 65,21589,Blk 103,21591,Opp Blk 117,21599,Blk 117,21601,Blk 357,21609,Opp Blk 364,21611,Blk 367,21619,Aft Corporation Rd
+Kang Ching Rd,21621,Blk 354,21629,Blk 334
+Yuan Ching Rd,21631,Opp Japanese Gdn,21639,Japanese Gdn,21641,Opp Lakeside Apt,21649,Lakeside Apt,21651,Opp Chinese Gdn,21659,Chinese Gdn,21661,Yuan Ching Sec Sch,21669,Opp Blk 134D,21751,Jurong Sec Sch,21759,Opp Jurong Sec Sch,21761,Blk 138B,21769,Opp Blk 143
+Tah Ching Rd,21671,Blk 331,21679,Blk 329
+Boon Lay Way,21681,Opp Blk 200,21689,Blk 200,21691,Opp Jurong Fire Stn,21699,Jurong Fire Stn,22541,Blk 655,22549,Opp Blk 655,22551,Blk 657,22559,Opp Blk 657,22561,Blk 660,22569,Opp Blk 660,22571,Opp Boon Lay Stn,22579,Boon Lay Stn,28021,Aft Toh Tuck Ave,28029,Bef Toh Tuck Ave,28031,Bef The Synergy,28039,Aft Boon Lay Sub Stn,28041,The Synergy,28049,Opp The Synergy,28051,Big Box,28059,Ng Teng Fong General Hosp,28061,Jurong East Stn/Int,28069,Blk 203,28071,Blk 105,28079,Blk 210,28081,Blk 112,28089,Bef Yuhua CC,28091,Lakeside Stn,28099,Opp Lakeside Stn,28341,Chinese Gdn Stn,28349,Opp Chinese Gdn Stn,28351,Opp Blk 350,28359,Blk 350,28361,Jurong Lake,28369,Opp Jurong Lake,28371,Bef Jurong West St 51,28379,Aft Jurong West St 51,E2801,Non Stop,N2801,Opp Boon Lay Stn
+Hu Ching Rd,21799,Taman Jurong Ter
+Jurong West Ctrl 3,22009,Boon Lay Int,E2201,Non Stop
+Tg Kling Rd,22081,Opp Natsteel,22089,Natsteel,22331,Jurong Shipyard,22391,Bef Jln Buroh,22399,Aft Jln Buroh,22401,Aft Shipyard Rd,22409,Bef Shipyard Rd,22421,Natl Oxygen Pte Ltd,22429,Opp Natl Oxygen Pte Ltd
+Shipyard Rd,22091,Aft Jln Samulun,22099,Bef Jln Samulun,23381,Plant Engrg,23389,PEC Ltd,23391,Far East Levingston,23399,Keppel Offshore & Marine,23401,Opp Mobil Marine Ter,23409,Mobil Marine Ter,23411,Aft Jurong Marine Base,23419,Bef Shipyard Cres,23421,Comfort Holdings,23429,Opp EMAS Marine Base,23431,SEMCO,23439,Opp SML Shipyard Ltd
+Pioneer Rd,22141,Aft Jln Buroh,22149,Bef Jln Buroh,22151,Hitachi,22159,Opp Hitachi,23221,Aft Gul Way,23229,Opp Gul Way,23231,Keppel Logistics,23239,Opp Keppel Logistics,23241,Aft Benoi Rd,23249,Bef Benoi Rd,23251,Aft Shipyard Rd,23259,Bef Shipyard Rd,23261,Opp Exxon Mobil,23269,Exxon Mobil,23271,Aft Benoi Sector,23279,Bef Benoi Sector,24331,Opp Robin Shipyard,24339,Robin Shipyard,24661,Opp LP 179,24669,LP 161,24671,JSW Plastic Machinery,24679,Bet LP 166/167,24681,Opp Jurong Insp,24689,LP 173,24691,LP 179,24699,Bet LP 179/180
+Pioneer Rd Nth,22161,Aft Lok Yang Way,22169,Aft Intl Rd,22171,Opp Secura S'pore,22179,Bef Secura,22181,S'pore Post,22189,Pioneer Junction,22451,Opp Blk 643,22459,Blk 643,22461,Opp Blk 653B,22469,Blk 653B,27301,Blk 978,27309,Blk 705,27321,Blk 949,27329,Blk 840
+Soon Lee Rd,22191,Soon Lee Depot,22199,Opp Soon Lee Depot,22271,Jebsen & Jessen,22289,Bef Fan Yoong Rd,22609,Soon Lee Bus Pk
+Jurong West St 61,22231,Blk 639,22239,Blk 624,22531,Opp Jurong West Pr Sch,22539,Jurong West Pr Sch
+Jurong West St 62,22241,Opp Blk 622,22249,Blk 622,22251,Blk 665A,22259,Blk 668D
+Fan Yoong Rd,22281,Aft Soon Lee Rd
+Kwong Min Rd,22299,Seng Mee Trading
+Enterprise Rd,22309,Aft Fan Yoong Rd,22431,Opp Par Investment,22439,Aft Par Investment
+Wan Lee Rd,22319,Chun Chun Mfg,22329,Opp Sam Mccoy Engrg
+Jurong West Ave 4,22341,Blk 673C,22349,Blk 734A,22351,Opp Blk 717,22359,Blk 717,22361,Blk 641,22369,Blk 705,22411,Blk 676B,22419,Jurong West Sub-Stn
+Jurong West St 64,22441,Blk 669 CP,22449,Blk 685B,22491,Blk 662D,22499,Opp Blk 662C,22591,Blk 670A,22599,Blk 678D,22999,Boon Lay Temp Int
+Upp Jurong Rd,22471,Bef Jurong West St 93,22479,Aft Jurong West St 93,23041,Opp Jurong Camp,23049,Jurong Camp,23051,Bef Kian Teck Rd,23059,Aft Kian Teck Rd,23061,Aft Kian Teck Rd,23069,Bef Kian Teck Rd,23071,Opp SAFTI Military Inst,23079,SAFTI Military Inst,23081,Opp S'pore Discovery Ctr,23089,S'pore Discovery Ctr,24041,Opp Pasir Laba Camp,24049,Pasir Laba Camp
+Jurong West Ctrl 1,22481,Blk 691A CP,22489,Blk 683A
+Jurong West St 63,22501,Blk 662A,22509,Blk 663E,22511,Blk 658C,22519,Blk 608,22521,Blk 651A,22529,Blk 649A
+Lok Yang Way,23091,Nippon,23099,Bef First Lok Yang Rd,23101,Opp Nichias (S),23109,Aft Third Lok Yang Rd,23111,Hitachi Cable,23119,Opp Hitachi Cable Pte Ltd,23121,Hitachi Cable,23129,Opp PCB Ltd,23501,Aft Pioneer Rd Nth,23509,Hoe Keng Motor
+Sixth Lok Yang Rd,23131,Opp Leroy Somer,23139,Bef Lok Yang Way,23141,Opp Varco,23149,Metoxide Pte Ltd
+Benoi Sector,23191,Opp S'pore Tpt Pte Ltd,23199,S'pore Tpt Pte Ltd,23201,Opp Shimano Pte Ltd,23209,Aft Shimano Pte Ltd,23211,Opp Regent Motors,23219,Aft Regent Motors,23471,Bef S'pore Tpt Pte Ltd,23479,Aft S'pore Tpt Pte Ltd
+Benoi Rd,23281,Aft Pioneer Rd,23291,S'pore Shipbldg Engrg,23301,Bef Benoi Basin,23311,Keppel Shipyard,23321,Opp Sinip Steel Pte Ltd,23331,Opp JP Nelson,23341,Aft Pioneer Rd,23349,Bef Pioneer Rd,23351,Aft Gul Ave,23359,Opp Gul Ave,23361,Opp S'pore Warehse & Tpt,23369,S'pore Warehse & Tpt,23371,Opp Hitachi Elect Devices,23379,Hitachi Elect Devices,23441,Opp Benoi Pl,23449,Benoi Pl,23519,Opp FairPrice Hub
+Jln Samulun,23451,Jurong Shipyard,23461,Selco Pte Ltd,23469,Opp Selco Pte Ltd
+Joo Koon Circle,23491,Joo Koon Stn,23499,Joo Koon Stn,24009,Joo Koon Int,24139,Opp Toyo Ink,24149,Ind Svcs Pte Ltd,24159,Aft Joo Koon Rd,24571,Nypro (S),24581,Opp ESAB
+Gul Way,24089,Aft Gul Ave
+Joo Koon Way,24129,Opp Yeow San Pte Ltd
+Gul Cres,24169,Bef Gul Circle,24179,Opp Hong Hock Hardware,24189,Tai Sin Electric Cables,24199,JB Ind Pte Ltd,24209,Aft Gul Lane
+Gul Circle,24219,Toyo Glass Machinery,24229,Aft Gul St 3,24239,Bef Gul St 1,24249,Asiatic Agricultural Ind,24259,Chong Trading Pte Ltd,24269,Sing Huat Hardware,24279,Cameron Iron Works,24289,Opp Keppel T & T,24299,Aft Gul Way,24301,Opp AMF Far East,24631,Bef Benoi Rd,24639,Aft Benoi Rd
+Gul Rd,24341,Opp Keppel Shipyard,24349,Keppel Shipyard,24351,Opp S'pore Takada Ind,24359,S'pore Takada Ind,24369,Dyna-Mac Engrg Svcs,24379,Opp Asia Ind Gases,24381,GE Keppel Energy Svcs,24389,Opp GE Keppel Energy Svcs
+Pioneer Sector 2,24391,Chem-Solv Technologies,24401,Hoe Huat Engrg,24411,Gul Camp,24421,Opp Pan Abrasives Ltd
+Pioneer Sector 1,24431,Aft Pioneer Sector 2,24531,Utracon Corp,24539,Dundee Marine,24541,Opp Keppel Shipyard,24549,Keppel Shipyard,24559,HQ 6 Div
+Pioneer Sector 3,24441,Opp Hoechst S'pore,24451,Aft S'pore Steel Ltd
+Pioneer Sector Lane,24461,Smarty BT Oilfield
+Joo Koon Rd,24489,Steel Storage Asia,24499,Chuan Kiat Metal & Ind,24599,Bef Joo Koon Way
+PIE,24501,Bef Tuas Flyover,24509,Aft Tuas Flyover,42665,Express,42775,Express,42776,Express,42885,Express,42886,Express,42995,Express,42996,Eng Neo Flyover,51091,Opp Catholic JC,51101,Old Police Academy,74995,Express,81995,Express,81996,Express,96995,At Track 33 Int,96996,At Track 33 Int,PIE,Express
+Tuas Rd,24511,Tuas Fire Stn,24519,Opp Tuas Fire Stn,24521,Bef Tuas Ave 5,24529,Aft Tuas Ave 5,24601,Calvanizing,24609,Opp Calvanizing,24611,Bef Marinteknik,24619,Opp Marinteknik,24621,Aft Ocean Tanker,24629,Opp Ocean Tanker
+Gul Ave,24641,Opp Tuboscope Vetco,24651,Metall-Treat Ind
+Tuas West Dr,25009,Tuas Ter,25411,Aft Tuas Ter,25419,Opp Tuas Ter,25421,Opp Raffles Marina,25429,Raffles Marina,25431,Super Continental,25439,Opp Super Continental,25441,Kasei Optonix Asia,25449,Opp Kasei Optonix Asia,25451,Opp Schering-Plough,25459,Schering-Plough,25461,Aft Tuas West Ave,25469,Bef Tuas West Ave,26201,ISK S'pore,26209,Opp ISK S'pore
+Tuas Ave 9,25061,Toshiba Chemical S'pore,25069,Mayfran Group,25071,Opp Nissin Tpt,25079,Nissin Tpt,25371,Opp Protex,25379,Aft Tuas Ave 6,25381,SHC Ind Bldg,25389,Aft Tuas Ave 8
+Tuas Ave 12,25091,Aft Tuas Ave 7,25099,Opto-Pharm,25511,CHC Express,25519,Opp CHC Express
+Tuas Ave 1,25101,Opp SMC Mfg,25109,SMC Mfg,25111,SE Plastics,25119,Sin Hiap Chuan Hardware,25121,Western Digital,25129,Hup Joo Eating Hse,25151,DaimlerChrysler Logistics,25161,Toyochem Ink,25169,Opp Panasonic,25171,Becton Dickinson Med,25179,Sew-Eurodrive,25181,Asahi Techno,25189,Soon Heng Glass,25191,Asiatic Engrg,25199,Klenco S'pore
+Tuas Ave 3,25201,APLS Bok Seng,25209,GN Packaging Ind
+Tuas Ave 5,25321,YCH Distripark,25329,Nutrade Logistics Ctr,25331,Chugoku Marine Paints,25339,Asia Steel Welded Mesh,25341,CSR Sth East Asia,25349,Times Printers
+Tuas Ave 2,25351,Hanwa Asia,25359,Opp Hanwa Asia
+Tuas Ave 4,25361,Standpack Ind,25369,Jas Metal Coatings
+Tuas West Rd,25391,Opp Sumitomo Warehse,25399,Sumitomo Warehse
+Tuas Link 4,25471,Opp S'pore Epson Ind,25479,S'pore Epson Ind,25491,Opp Super Continental,25499,Super Continental
+Tuas Ave 7,25501,Wee Wee Hup Kee,25509,Opp Wee Wee Hup Kee
+Tuas Cres,26011,Bef Tuas Ave 11,26021,Jaya Shipbuilding & Engrg,26031,Hiap Seng Engrg Ltd,26049,Pan United Shipping,26059,Drydocks World,26069,Aft Tuas Ave 16,26079,Sumpiles Investment,26089,Bef Tuas Ave 20
+Tuas Ave 20,26099,Bef Tuas Ave 13,26109,Bef Tuas Ave 11
+Tuas Basin Link,26111,Aft Grinnel,26119,Opp Grinnel,26121,Opp Chuan Hua,26129,Chuan Hua,26131,Aft Tuas Cres
+Tuas Ave 11,26141,Smarty,26151,Opp Hempel,26161,Metalplas Engrg,26171,Richee Engrg
+Tuas Sth Ave 9,26211,Tuas Power Stn,26221,Opp YLS Steel
+Tuas Sth Ave 3,26231,LP 4/6,26239,Opp LP 4/6,26241,LTH Distripark,26249,Bef Tuas Sth Ave 2,26251,Bef Tuas Sth Ave 2,26259,Aft Tuas Sth Ave 2,26261,Sin Lian Heng Const,26269,Opp Sin Lian Heng Const,26279,Aft Tuas Sth Ave 4,26289,Opp JVC Asia,26299,Bef Tuas Sth Ave 6,26359,Aft Tuas Sth Ave 6,26369,See Hup Seng,26379,Yong Nam,26389,Multi Alliance,26399,Aft Tuas View Cres,26409,Multico,26419,Sen Hin Chemical,26429,Tuas Power Stn
+Tuas Sth Ave 5,26311,Aft Tuas Sth Ave 6,26321,Bet Jacuzzi/Winmac,26331,RS Components,26461,Heng Huat Ship Bldg & Construction
+Tuas Sth Ave 4,26349,Tuas Technology Pk
+Tuas Sth Ave 8,26431,Aft Blue Circle,26441,Bef Tuas Sth Ave 7,26451,Bef Tuas Sth Ave 5
+Nanyang Cres,27011,Blk 55,27021,Hall 15,27031,Hall 12,27041,CP 7,27051,NIE Lib
+Nanyang Dr,27061,Opp Blk 41,27069,Blk 41,27211,Lee Wee Nam Lib,27219,Blk 2,27221,Sch Of CEE,27231,Sch Of Comm And Info,27241,Hall 7,27251,Innovation Ctr,27261,Hall 4,27311,Hall 2,N2709,Opp Hall Of Residence 5,N2719,Opp Innovation Ctr,N2729,Opp Sch Of Comm Studies,N2739,Opp Sch Of Cse,N2749,Opp Blk N2,N2759,Opp Lib 1,N2769,Hall Of Residence 8
+Jln Bahar,27091,Opp Blk 271 CP,27099,Blk 271 CP,27101,Westville,27109,Opp Westville,27121,Bef Nanyang Ave,27129,Opp Nanyang Ave,31011,Aft Nanyang Ave,31019,Bef Nanyang Ave,31021,Jln Bahar Power Stn,31029,Opp Jln Bahar Power Stn,31031,Civil Defence Academy,31039,Opp Civil Defence Academy,31041,Bef Muslim Cemy Path 7,31049,Aft Chr Cemy Path 9,31051,Bef Muslim Cemy Path 1,31059,Aft Chr Cemy Path 3,E2700,Non Stop
+Jurong West St 91,27131,Blk 932,27139,Blk 934,27141,Blk 920,27149,Juying Pr Sch,27271,Blk 962,27279,Blk 953,27531,Blk 918,27539,Opp Blk 918
+Jurong West St 92,27159,Blk 924
+Nanyang Ave,27169,Bef Jln Bahar,27171,Bef Lor Danau,27179,Aft Lor Danau,27181,PUB Sub-Stn,27189,Opp PUB Sub-Stn,27199,Hall 11,27209,Hall 8
+Lien Ying Chow Dr,27281,Hall 1,27291,Opp Hall 6
+Jurong West St 72,27331,West Grove Pr Sch,27341,Blk 729,27349,Blk 745
+Jurong West Ave 5,27351,Blk 715,27359,Blk 817,27361,Blk 710,27369,Blk 834,27431,Blk 762,27439,Blk 861,27441,Bet Blks 757/758,27449,Aft Westwood Ave
+Jurong West St 75,27371,Opp Blk 755,27379,Blk 755,27381,Blk 749,27389,Gek Poh Shop Ctr
+Jurong West St 82,27391,Blk 857,27399,Blk 859
+Jurong West St 81,27401,Pioneer Sec Sch,27409,Blk 821,27411,Blk 844A CP,27419,Blk 827
+Jurong West St 71,27421,Blk 701,27429,Blk 711
+Jurong West Ave 3,27451,Bet Blks 272D/271A,27459,Blk 273B,27461,Opp Blk 276B,27469,Blk 276B
+Jurong West St 23,27471,Corporation Pr Sch,27479,Opp Corporation Pr Sch
+Jurong West St 93,27501,NTUC Health Nursing Home,27509,Bef Yunnan Cres,27511,Blk 974,27519,Opp Blk 974,27521,Blk 986 CP,27529,Opp Blk 987A
+Jurong East St 13,28008,Jurong East Int
+Jurong Gateway Rd,28009,Jurong East Temp Int,28201,Opp The JTC Summit,28211,Opp Blk 135,28301,Blk 131
+Toh Tuck Ave,28101,Opp SMRT Ulu Pandan Depot,28109,SMRT Ulu Pandan Depot,28181,Opp Ulu Pandan R.I. Plant,28189,Ulu Pandan R.I. Plant,E2810,Non Stop
+Jurong Rd,28111,Aft Bt Batok Rd,28119,Bef Bt Batok Rd,28121,Opp Track 18,28129,Aft Track 18,28131,Bef Track 22,28139,Aft Track 22,28141,Aft Track 22,28149,Bef Track 22,28151,Bef Hong Kah Circle,28159,Aft Hong Kah Circle,28161,Bef Hong Kah Flyover,28169,Aft Hong Kah Flyover
+Jurong East Ctrl,28311,Blk 209,28319,Blk 207,28431,Blk 134,28439,Blk 124,28441,Seventh-Day Advent Ch,28449,Bef Seventh-Day Advent Ch,28621,Blk 241,28629,Blk 266
+Jurong East Ave 1,28321,Blk 239,28329,Blk 246,28331,Blk 229,28339,Blk 252,28451,Parc Oasis,28459,Opp Parc Oasis,28461,Blk 347,28469,Blk 316,28491,Opp Jurong Polyclinic,28499,Jurong Polyclinic
+Jurong West St 51,28381,Blk 515,28389,Opp Blk 515,28391,Blk 501,28399,Blk 458
+Jurong West Ave 1,28401,Blk 502,28409,Blk 454,28501,Blk 490,28509,Blk 422,28511,Blk 463,28519,Blk 425,28521,Blk 457,28529,Blk 441,28531,Blk 536,28539,Blk 538
+Jurong West St 52,28411,Blk 526,28421,Blk 517
+Jurong East St 32,28471,Opp Blk 311,28481,Blk 306
+Jurong West St 42,28541,Blk 551,28551,Aft Blk 553,28561,Blk 402,28571,Blk 416
+Jurong West St 41,28581,Blk 491,28591,Opp Blk 481,28601,Yuhua Sec Sch,28611,Opp Blk 461
+Toh Guan Rd,28631,Opp Blk 288D,28639,Blk 288E,28641,Blk 284,28649,Blk 286A,28651,Opp IMM Bldg,28659,IMM Bldg
+Toh Guan Rd East,28661,Opp Jurong East Warehse,28669,Jurong East Warehse,28671,Alliance Bldg,28679,Hitachi Elevator Bldg,28681,Toh Guan Ctr,28689,Opp Toh Guan Ctr,28691,Wang-Fu Ind Pte Ltd,28699,Opp Uni-Tech Ctr
+Toh Tuck Link,28701,Aft Old Toh Tuck Rd,28709,Bef Old Toh Tuck Rd
+Tg Penjuru,29041,Ban Joo,29049,LTH Logistics,29121,ECS Freight Svcs,29129,Chin Leong (CLP)
+Pandan Rd,29071,Gas Svc Intl,29081,Franklin Offshore,29089,Swanson Plastics,29091,Opp Sia Huat,29099,Ct S'pore,29101,PPL Shipyard,29109,Opp PPL Shipyard,29111,Yeo & Son Investment,29119,Comfortdelgro Engrg
+Pandan Ave,29139,Opp Foh Foh Pte Ltd,29149,Opp LP 4
+Old Choa Chu Kang Rd,30011,Tengah Air Base,30019,Opp Tengah Air Base,30021,Opp Keat Hong Camp,30029,Keat Hong Camp,30031,Opp Army Logistics Base,30039,Army Logistics Base,30041,Opp Home Team Academy,30049,Home Team Academy,30051,Aft Track 14,30059,Opp Track 14,31009,Choa Chu Kang Rd End,31121,Opp Chinese Cemy,31129,Chinese Cemy,31131,Aft Track 33,31139,Bef Track 33,31141,Bahai Cemy,31149,Opp Bahai Cemy,31151,Aft Lim Chu Kang Rd,31159,Bef Lim Chu Kang Rd,31161,Opp Teen Challenge,31169,Teen Challenge,31171,Opp Jln Berseri,31179,Aft Jln Berseri,31181,Aft LP 222,31189,B27 Old Choa Chu Kang Rd,31191,B26 Old Choa Chu Kang Rd,31199,B25 Old Choa Chu Kang Rd
+Brickland Rd,30081,Opp Hai Inn See Tp,30089,Aft Hai Inn See Tp
+Sg Tengah Rd,30091,Chengtai Nursery,30099,Opp Chengtai Nursery
+Lim Chu Kang Rd,31061,Opp Lim Chu Kang Camp II,31069,Bef Old Choa Chu Kang Rd,31071,Aft Chinese Cemy Path 11,31079,Opp Chinese Cemy Path 11,31201,Aft Chinese Cemy Path 13,31211,Aft Muslim Cemy Path 17,32031,Opp Ama Keng Rd,32039,Aft Ama Keng Rd,32041,Opp LP 160,32049,Aft LP 161,32051,Aft Track 11,32059,Opp Track 11,32061,Opp LP 173,32069,B26 Lim Chu Kang Rd,32071,Aft Track 13,32079,Opp Track 13,32081,Sg Gedong Camp,32089,Aft Sg Gedong Camp,32101,Aft Murai Farmway,32109,Bef Lor Serambi,32111,Aft LP 93,32119,Aft LP 96,33011,B19 Lim Chu Kang Rd,33019,B20 Lim Chu Kang Rd,33021,Opp Neo Tiew Rd,33029,Aft Neo Tiew Rd,33031,Aft Jln Bahtera,33039,Opp Jln Bahtera,33041,Opp Lim Chu Kang Lane 3,33049,Aft Lim Chu Kang Lane 3,33051,Bef Lim Chu Kang Lane 3A,33059,Aft Lim Chu Kang Lane 3A,34009,Police Coast Guard,34011,Opp Lim Chu Kang Lane 4,34019,Aft Lim Chu Kang Lane 4,34021,Opp Lim Chu Kang Lane 5,34029,Bef Lim Chu Kang Lane 5,34031,Aft Lim Chu Kang Lane 6,34039,Bef Lim Chu Kang Lane 6,34041,B03 Lim Chu Kang Rd,34049,Aft Lim Chu Kang Lane 8,34051,Aft Lim Chu Kang Lane 8,34059,Yishun Dairy Farm
+Old Lim Chu Kang Rd,31081,Opp HQ 5th SIB Camp I,31089,HQ 5th SIB Camp I,31091,Opp Lim Chu Kang Camp I,31099,Lim Chu Kang Camp I,31101,Murai Camp,31109,Opp Murai Camp,31111,B05 Old Lim Chu Kang Rd,31119,B06 Old Lim Chu Kang Rd,32011,S'pore Telecoms,32019,Opp S'pore Telecoms,32021,Bef Lim Chu Kang Rd,32029,Aft Lim Chu Kang Rd
+Lor Rusuk,34101,Aft Old Lim Chu Kang Rd,34109,Aft Lim Chu Kang Rd
+Bt Timah Rd,40011,Opp Little India Stn,40019,Little India Stn,40021,Aft POSBank,40029,Shell Kiosk,40031,Newton FC,40039,Opp Newton FC,40041,Newton Stn,40051,Balmoral Plaza,40071,Leng Kwang Baptist Ch,40081,Stevens Stn,40091,Bef Lewis Rd,40111,City Twrs,40271,Opp KK Women & Child Hosp,40279,KK Women & Child Hosp,41011,NUS Bt Timah Campus,41021,Botanic Gdns Stn,41031,Bef Crown Ctr,41041,Coronation Plaza,41051,Tan Kah Kee Stn,41061,Chinese High Sch,41071,Opp Natl JC,41081,Sixth Ave Stn,42011,Sixth Ave Ctr,42021,Aft Maple Ave,42031,The Tessarina,42041,The Nexus,42051,King Albert Park Stn,42061,King Albert Lodge
+Dunearn Rd,40049,Opp Newton Stn,40059,Chancery Ct,40069,Anglo-Chinese Sch,40079,Chinese Intl Sch,40089,Opp Stevens Stn,40099,Aft Dunkirk Ave,40119,Bef Goldhill Ave,41019,Aft Kheam Hock Rd,41029,Opp Botanic Gdns Stn,41049,Opp Coronation Plaza,41069,Opp Tan Kah Kee Stn,41079,Natl JC,41089,Aft Jln Naga Sari,42019,Opp Sixth Ave Stn,42029,Aft Swiss Club Rd,42039,Opp The Nexus,42049,Hua Guan Gdn,42059,Opp King Albert Pk Stn
+Kg Java Rd,40101,KK Women & Child Hosp,40109,Opp KK Women & Child Hosp,50011,Opp Parish Of Christ Ch
+Newton Rd,40121,Opp Newton Life Ch,40129,Newton Life Ch,50061,Opp Hotel Royal,50069,Hotel Royal
+Stevens Rd,40191,Raffles Girls' Sch,40199,Opp Raffles Girls' Sch,40201,Chelsea Gdn Condo,40209,The Pines,40211,Opp Met YMCA,40219,Bef Met YMCA,40221,Opp Stevens Ct,40229,Stevens Ct,E4022,Non Stop
+Whitley Rd,40231,Raffles Town Club,40239,Aft Tanglin CC,40249,St. Joseph's Inst,51099,Catholic JC,51109,Opp Old Police Academy,E4023,Non Stop
+Lornie Rd,40251,Aft Wallace Way,40259,Bef Wallace Way,40261,LP 52,40269,LP 57,41151,Aft SICC,41159,Aft Lornie Walk,51111,Opp Andrew Rd,51119,Bef Andrew Rd
+Adam Rd,41121,S'pore Bible College,41129,Opp S'pore Bible College,41131,Opp The Japanese Assn,41139,Aft The Japanese Assn,41141,Bef SICC,41149,Opp SICC
+Upp Bt Timah Rd,42071,Shell Kiosk,42091,Opp Bt Timah Shop Ctr,42099,Beauty World Stn,42111,Aft Ct Bt Timah,42119,Southaven II,43011,Bt Regency,43019,Aft Bt Timah Fire Stn,43021,Aft Old Jurong Rd,43029,Opp The Hillside,43041,Hume Pk Condo,43049,Opp Hume Pk Condo,43051,Opp The Rail Mall,43059,The Rail Mall,43061,Hillview Stn,43069,Opp Hillview Stn,43071,Opp Dairy Farm Rd,43081,Opp Assumption Eng Sch,43089,Aft Assumption Eng Sch,43091,Bef Cashew Rd,43099,Assumption Pathway Sch,43109,Cashew Stn,43111,Min Of Defence,43119,Bef Hazel Pk Terr,44011,Opp The Linear,44019,The Linear,44021,Opp Bt Panjang Stn,44029,Bt Panjang Stn,44031,Aft Bt Panjang Stn,E4300,Non Stop
+Jln Anak Bt,42089,Opp Bt Timah Plaza,42109,Opp Beauty World Ctr,E4200,Non Stop
+Jln Jurong Kechil,42151,Aft Upp Bt Timah Rd,42159,Bef Upp Bt Timah Rd,42161,Blk 18,42169,Opp Blk 19,42171,Signature Pk Condo,42179,Opp Rainbow Gdns,42181,Grand Chateau,42189,Opp Grand Chateau,42191,Bef Bt Batok East Ave 6,42199,Aft Bt Batok East Ave 6,42259,Goh & Goh Bldg
+Toh Tuck Rd,42201,Bef Toh Tuck Rise,42209,Aft Toh Tuck Rise,42211,Highgate Condo,42219,Opp Highgate Condo,42221,Good Luck Gdn,42229,Aft Toh Tuck Terr,42231,Bef Jlan Jurong Kechil,42239,Aft Jln Jurong Kechil
+Lor Kismis,42241,Aft Eng Kong Pl,42249,Bef Eng Kong Pl
+Toh Tuck Rise,42291,Opp Toh Tuck Cres,42299,Aft Toh Tuck Cres
+Toh Tuck Terr,42301,Opp Hse No. 19,42309,Hse No. 45
+Bt Batok East Ave 3,42311,Opp Burgundy Hill,42319,Burgundy Hill,43171,Blk 229,43179,Blk 231,43181,Keming Pr Sch,43189,Blk 283,43611,Blk 290H,43619,Blk 289E,43621,Opp Parkview Apts,43629,Yusof Ishak Sec Sch
+Bt Batok Ctrl,43009,Bt Batok Int,43391,Bt Batok CC,43399,Opp Blk 120,43411,Opp Blk 628,43419,Blk 628,43701,Blk 225,43709,Blk 644
+Cashew Rd,43121,Aft Cashew Terr,43129,Cashew Pk Condo,43131,Bt Panjang Pr Sch,43139,Opp Bt Panjang Pr Sch
+Bt Batok East Ave 6,43141,Opp Blk 291A,43149,Blk 291A,43191,Blk 288C,43199,Ch Of St. Mary,43201,Opp Autobacs,43209,Autobacs,43511,Bt Batok Swim Cplx,43519,Opp Bt Batok Swim Cplx,43591,Opp Bt View Sec Sch,43599,Bt View Sec Sch
+Hillview Ave,43151,Opp Glendale Pk Condo,43159,Bef Glendale Pk Condo,43231,Opp The Petals Condo,43239,The Petals Condo,43241,Opp Hillview Apts,43249,Hillview Apts,43251,Hillbrooks,43259,Opp Hillbrooks,43261,Opp Hillview Hts,43267,Hillview Hts,43268,Hillington Green Condo,E4307,Non Stop
+Bt Batok East Ave 4,43161,Blk 272,43169,Blk 254
+Bt Batok St 23,43211,SBS Transit West District,43219,Opp SBS Transit West District,43311,Midview Bldg,43319,Opp Midview Bldg,43501,Opp Blk 291E,43509,Blk 291E
+Bt Batok East Ave 2,43221,Blk 267,43229,Opp Blk 266,43421,Blk 503,43429,Blk 240,43431,Opp Blk 242,43439,Blk 242,43441,Opp Blk 258,43449,Blk 258,E4302,Non Stop
+Hillview Rd,43271,Glendale Pk Condo,43279,Opp Glendale Pk Condo,E4305,Non Stop
+Jln Remaja,43289,Hillview Hse,E4303,Non Stop
+Jln Batu Nilam,43291,Aft Jln Remaja,43301,Opp Hillbrooks,43309,Hillbrooks
+Bt Batok West Ave 6,43321,Opp Blk 144,43329,Blk 146,43371,Blk 109,43379,Blk 185
+Bt Batok St 11,43331,Opp Bt Batok Presby Ch
+Bt Batok West Ave 3,43341,Princess E Pr Sch,43349,Opp Princess E Pr Sch,43401,Bt Batok Polyclinic,43409,Opp Blk 127,43531,Blk 140,43539,Opp Blk 140
+Bt Batok West Ave 8,43351,Blk 168,43361,Blk 154A,E4301,Non Stop
+Bt Batok Ave 1,43381,Blk 102,43389,Opp Blk 102,43691,Blk 190,43699,Blk 298
+Bt Batok Rd,43451,Bef PIE,43459,Aft PIE,43671,Opp Dunearn Sec Sch,43679,Blk 402,43751,Aft LP 56,43759,Aft LP 59,43761,Aft LP 32,43769,Aft LP 37,43771,Aft LP 100,43779,Aft Bt Batok West Ave 2,43781,Aft LP 74,43789,Aft LP 83,44151,Opp Bt Batok Fire Stn,44159,Bt Batok Fire Stn,44161,Aft Bt Batok West Ave 5,44169,Bef Bt Batok West Ave 5,44171,Bef Bt Batok West Ave 5,44179,Aft Bt Batok West Ave 5,E4308,Non Stop
+Bt Batok West Ave 2,43461,Aft Bt Batok West Ave 5,43469,Bef Bt Batok West Ave 5,43471,Blk 306,43479,Opp Blk 305,43481,Blk 315,43489,Opp Blk 315,43681,Bt Batok Home For The Aged
+Bt Batok West Ave 4,43491,Blk 331,43499,Blk 419
+Bt Batok West Ave 5,43521,Bt Batok Driving Ctr,43529,Opp Bt Batok Driving Ctr,43571,Opp Bt Gombak Stn,43579,Bt Gombak Stn,43581,Blk 347,43589,Opp Blk 347,43601,Opp Blk 532,43609,Blk 531,E4309,Non Stop
+Bt Batok East Ave 5,43541,Blk 510,43549,Regent Hts,43561,Opp Bt Gombak Stadium,43569,Bt Gombak Stadium
+Old Jurong Rd,43631,YWMA Kindergarten,43639,Opp YWMA Kindergarten
+Bt Batok West Ave 7,43641,Opp HomeTeamNS,43649,HomeTeamNS,43669,Blk 406,43831,Blk 334,43839,Opp Blk 336,E4364,Non Stop
+Bt Batok St 34,43659,St. Anthony's Pr Sch
+Gombak Dr,43719,MINDEF CP,43721,Blk 319
+Bt Batok St 21,43731,Opp Block 217,43739,Blk 217,43741,Bt View Sec Sch,43749,Opp Bt View Sec Sch
+Bt Batok St 52,43801,Bet Blks 536/537,43809,Blk 514
+Hume Ave,43811,Bef Summerhill,43819,Hillview Green,43821,Opp Symphony Hts,43829,Symphony Hts
+Bt Batok St 33,43841,Blk 324
+Dairy Farm Cres,43859,Opp Dairy Farm Est Sth Gate,43869,Bef Dairy Farm Est Nth Gate
+Chestnut Dr,43879,Opp Hse No. 42
+Chestnut Ave,43889,Aft Chestnut Dr
+Choa Chu Kang Loop,44009,Choa Chu Kang Int,E4400,Non Stop
+Woodlands Rd,44041,Ten Mile Junction Stn,44049,Opp Ten Mile Junction Stn,44051,Aft Heavy Veh Pk,44059,Opp Heavy Veh Pk,44061,Bef Yew Tee Flyover,44069,Aft KJE Slip Rd,45009,Bt Panjang Temp Bus Pk,45011,Aft Yew Tee Flyover,45019,Aft Yew Tee Flyover,45021,Heavy Veh Pk,45029,Opp Heavy Veh Pk,45031,Yew Tee Ind Est,45039,Opp Yew Tee Ind Est,45041,Thong Huat Bros Pte Ltd,45049,Opp Yew Tee Ind Est Blk 1,45051,Da Di Glass,45059,Opp Da Di Glass,45061,Opp Mandai Est,45069,Aft Mandai Est,45071,Bef Mandai Rd,45079,Aft Mandai Rd,45081,Opp Mandai Rd,45091,Opp Jln Bumbong,45099,Aft Jln Bumbong,45101,Aft LP 234,45109,Bef Jln Bumbong,45111,Opp Kranji War Memorial,45119,Kranji War Memorial,45121,Opp S'pore Turf Club,45129,S'pore Turf Club,45131,Opp Kranji Stn,45139,Kranji Stn,46021,Opp Woodlands Fire Stn,46029,Aft Woodlands Fire Stn,46031,Aft Woodlands Ind Pk D,46039,Bef Woodlands Ind Pk D,46041,Opp Sri Arasakesari Tp,46049,Bef Sri Arasakesari Tp,46051,Opp Chartered Semi-C Bldg,46059,Chartered Semi-C Bldg,E4402,Non Stop
+Choa Chu Kang Ave 3,44071,Blk 464,44079,Opp Blk 464,44511,Blk 289,44519,Blk 402,44521,Blk 280,44529,Blk 410,44689,Sunshine Pl,E4403,Non Stop
+Choa Chu Kang Ave 1,44081,Blk 296A,44089,Opp Blk 296A,44091,Bef Choa Chu Kang Mkt,44099,Opp Choa Chu Kang Mkt,44101,Aft Hong San Terr,44109,Opp Hong San Terr,44111,Opp Blk 203,44119,Blk 204,45451,Blk 293,E4404,Non Stop,N4404,Non Stop
+Choa Chu Kang Way,44121,Blk 113,44129,Opp Blk 113,44441,Blk 239,44449,Opp Blks 237/239,44451,Blk 224,44459,Blk 277,44461,Blk 352,44469,Blk 414,45231,Blk 432,45239,Bet Blks 306/307,45241,Opp Blk 511A,45249,Blk 511A,45251,Opp Kranji Sec Sch,45259,Blk 523,45519,Aft Blk 605,45529,Blk 552,E4460,Non Stop,N4521,Aft Choa Chu Kang Nth 6 (LP 167),N4529,Aft Blk 605 (LP 170),N4531,Opp Blk 548 (LP 143),N4539,Blk 552 (LP 150)
+Choa Chu Kang Rd,44131,Blk 26,44139,Opp Blk 26,44141,Phoenix Stn,44149,Opp Phoenix Stn,E4413,Non-Stop,E4418,Non Stop
+Keat Hong Cl,44181,Blk 802B,44189,Blk 803
+Gangsa Rd,44191,Opp Blk 171,44199,Blk 171
+Petir Rd,44201,Aft Petir Stn,44209,Opp Petir Stn,44211,Blk 127,44219,Bet Blks 139/140,44351,Aft Chestnut Ave,44359,Bef Chestnut Ave,44361,Bef Dairy Farm Rd,44369,Aft Dairy Farm Rd,44371,Blk 219,44379,Opp Blk 219,44381,Blk 202,44389,Opp Blk 201,44851,Bt Panjang Stn,44859,Maysprings Condo,E4500,Non Stop
+Pending Rd,44221,Opp Pending Stn,44229,Bef Pending Stn
+Bt Panjang Rd,44231,Zhenghua Pr Sch,44239,Opp Zhenghua Pr Sch,44241,Opp Lompang Rd,44249,Blk 174,44251,Blk 604,44259,Blk 183,44261,Blk 270,44269,Blk 223,44401,Opp Blk 183,44909,Blk 184,E4408,Non Stop
+Teck Whye Ave,44271,Bet Blks 13/14,44279,Blk 157,44281,Blk 8,44289,Blk 6,44291,Opp Choa Chu Kang Polyclinic,44299,Choa Chu Kang Polyclinic
+Bangkit Rd,44301,Opp Blk 271,44311,Opp Blk 253
+Bt Panjang Ring Rd,44321,Opp Bangkit Stn,44329,Bangkit Stn,44641,Blk 602,44649,Blk 541A CP,44651,Blk 617,44659,Blk 537A CP,44701,Blk 548B,44711,Express,44721,Opp Jelapang Stn
+Fajar Rd,44331,Blk 239,44339,Blk 442D,44341,Blk 401A CP,44349,Bet Blks 443A/443B,44771,Fajar Stn,44779,Opp Fajar Stn,E4407,Non Stop
+Choa Chu Kang Dr,44391,Aft Blk 202,44399,Opp Blk 210,44541,Northvale Condo,44549,Opp Northvale Condo,45291,Opp Blk 704,45299,Blk 702,45321,Yew Tee Stn,45329,Opp Yew Tee Stn,45479,Kranji Pr Sch,E4406,Non Stop,N4501,Opp Kranji Pr Sch (LP 87)
+Teck Whye Lane,44409,Opp Blk 118,44411,Blk 108,44421,Blk 25,44439,Blk 9,E4409,Non Stop
+Choa Chu Kang Ctrl,44471,Blk 234,44479,Blk 206,44481,Blk 223,44489,Blk 220
+Choa Chu Kang Ave 4,44491,Bet Blks 416/417,44499,Blk 429A CP,44501,Blk 426,44509,Blk 442,44531,Opp Choa Chu Kang Stn,44539,Lot 1 Shoppers' Mall,44621,Opp Concord Pr Sch,44629,Blk 457,E4401,Non Stop
+Choa Chu Kang Ave 5,44551,Opp Blk 486,44559,Blk 483,44581,Blk 489A,44589,Opp Blk 489A,E4458,Non Stop
+Choa Chu Kang Ave 2,44561,Opp Blk 295,44569,Blk 295,44571,Blk 297D,44579,Aft Blk 272,N4401,Blk 297D,N4411,Blk 296
+Choa Chu Kang Ave 6,44591,Blk 490B,44599,Bet Blks 801B/801C
+Saujana Rd,44601,Blk 413,44609,Blk 408,44671,Bet Blks 502/503,44679,Opp Blk 502
+Jelapang Rd,44611,Blk 516,44619,Blk 506,44661,Blk 532,44669,Opp Blk 532
+Jelebu Rd,44631,Opp Bt Panjang Plaza,44639,Bt Panjang Plaza,44731,Opp Blk 180,44739,Blk 180,E4501,Non Stop
+Segar Rd,44691,BLK 485,44699,BLK 457,44709,Blk 547C
+Senja Rd,44791,West View Pr Sch,44799,Blk 610,44801,Opp Blk 628,44809,Blk 628,44811,West Spring Sec Sch,44819,Opp West Spring Sec Sch,44861,BLK 636A,44869,BEF BLK 629A MSCP
+Senja Link,44821,Blk 651,44829,Opp Blk 650,E4410,Non Stop
+Choa Chu Kang Ave 7,44871,Blk 810 CP,44879,Opp Blk 810 CP,E4461,Non Stop
+Keat Hong Link,44889,Opp Blk 816A
+Choa Chu Kang Gr,44891,APSN,44899,Opp APSN,E4459,Non Stop
+BKE,44995,Express,BKE,Express
+Kranji Rd,45141,Aft Woodlands Rd,45149,Bef Woodlands Rd,49091,Bef Railway Crossing,49101,Opp Ordinance Supply Base,49109,Kranji Water Reclamation Plant,49111,Aft Jln Lam Huat,49119,Blk 2,49121,Aft SMRT Buses Kranji Depot,49129,Lip Guan Ind
+Sg Kadut Ave,45151,Opp Multistates Trading,45159,Multistates Trading,45161,Opp Hiap Hin,45169,Hiap Hin,45171,Aft Mandai Est,45179,Sri Arasakesari Sivan Tp,49131,Tan Chiang Bros Marble,49139,Aft Railway Crossing
+Mandai Rd,45181,Opp Mandai CD Trg Village,45189,Mandai CD Trg Village,45191,Opp Mandai Police Trg Camp,45199,Mandai Police Trg Camp,45201,Opp Police Tactical Trg Camp,45209,Police Tactical Trg Camp,45211,Bef BKE,45221,Aft Woodlands Rd,45229,Bef Woodlands Rd,48011,Opp Mandai Camp 2,48019,Mandai Camp 2,48021,Aft Mandai Lake Rd,48029,Bef Mandai Lake Rd,48031,LP 162,48039,LP 159,48041,Aft Jln Ulu Sembawang,48049,LP 199,48051,Mandai Agrotech Pk,48059,Opp Mandai Agrotech Pk,48061,Aft Lor Gambas,48069,Opp Lor Gambas,48071,Mandai Crematorium,48079,Opp Mandai Crematorium,48081,Opp Upp Seletar Reservoir,48089,Upp Seletar Reservoir,48091,SCDF Nee Soon Camp,48099,Opp SCDF Nee Soon Camp,48101,Aft Meng Suan Rd,48109,Opp Meng Suan Rd,57141,Bef Upp Thomson Rd,57149,Aft Upp Thomson Rd
+Choa Chu Kang St 52,45261,Blk 551,45269,Blk 544,45271,Blk 560,45279,Blk 563
+Choa Chu Kang Nth 5,45301,Blk 708,45309,Blk 754,45311,Blk 547,45319,Blk 530,45361,Opp Blk 765,45369,Blk 765,45461,Blk 540,45469,Blk 532
+Choa Chu Kang St 62,45331,Blk 621,45339,Blk 625,45341,Blk 604A,45349,Opp Blk 604A,N4421,Blk 604A CP,N4431,Blk 621 (LP 13)
+Choa Chu Kang Nth 6,45351,Blk 634,45359,Blk 790,45371,Opp Yew Mei Green Condo,45379,Yew Mei Green Condo,E4535,Non Stop
+Choa Chu Kang Nth 7,45389,Blk 619,45391,Blk 657,45399,Regent Gr Condo,45509,Blk 613,E4451,Non Stop,N4511,Blk 678A (LP 37),N4519,Blk 613 (LP 38),N4591,Blk 673A
+Choa Chu Kang Cres,45401,Blk 681,45411,Opp Blk 670,45421,Opp Blk 666,45439,Opp Blk 661,N4541,Blk 661,N4559,Blk 666,N4569,Blk 669,N4579,Blk 675
+Sg Kadut Dr,45441,Opp Eng Hua Furniture Mfg Pte Ltd,45449,Eng Hua Furniture Mfg Pte Ltd,49071,Opp Wason Wood Industries,49079,Wason Wood Ind,49081,Opp Econ Machinery,49089,Econ Machinery
+Woodlands Sq,46008,Woodlands Temp Int,46009,Woodlands Temp Int
+Marsiling Rd,46011,Bef Woodlands Ctr Rd,46019,Aft Woodlands Ctr Rd,46071,Blk 137,46079,Opp Blk 137,46181,Opp Blk 12,46189,Blk 12,46311,Blk 18,46319,Opp Blk 18
+Woodlands Ctr Rd,46069,Woodlands Train Checkpt,46088,Opp Blk 1A,46091,Woodlands Town Gdn,46501,Opp Woodlands Town Gdn,46509,Woodlands Town Gdn,46511,Marsiling Pr Sch,46519,Opp Blk 144
+Woodlands Crossing,46101,Woodlands Checkpt,46109,Woodlands Checkpt
+Admiralty Rd,46111,Blk 23,46119,Marsiling CC,46121,Opp Hawker Ctr,46129,Hawker Ctr,46131,Aft Marsiling Lane,46139,Aft Riverside Rd,47011,Bef R.M.N. Barracks,47019,Aft R.M.N. Barracks
+Marsiling Dr,46141,Blk 32,46149,Blk 203,46201,Blk 10,46209,Blk 2,46709,Aft Blk 1
+Marsiling Lane,46151,Blk 212,46159,Blk 206,46161,GES S'pore,46169,Si Ling Sec Sch,46171,Opp Blk 19,46179,Blk 18,46241,Opp Blk 15,46249,Blk 15
+Marsiling Rise,46191,Opp Blk 120,46199,Blk 120
+Johor Bahru,46211,Johor Bahru Checkpt,46219,Johor Bahru Checkpt
+Woodlands Ave 2,46221,Innova JC,46229,Opp Innova JC,46271,Opp Blk 802,46279,Blk 803,46331,Blk 511,46339,Blk 370,46631,Blk 892C CP,46639,Opp Blk 892C CP,E4601,Non Stop
+Jln Datin Halimah,46239,Larkin Ter
+Woodlands St 81,46251,Riverside Sec Sch
+Woodlands Ave 9,46261,Blk 808,46269,Republic Poly,46451,Opp Blk 872,46459,Blk 872,46461,Opp Blk 757A CP,46469,Blk 759,46471,Opp Blk 773,46479,Blk 774,46481,Aft Woodlands Ind Pk E6,46489,Aft Gambas Ave,46931,Anixter Bldg,46941,Opp Nylect Engrg
+Woodlands Ave 7,46281,Blk 825,46289,Blk 891C CP,46391,Blk 853,46399,Aft 888 Plaza,46761,Blk 706,46769,Blk 666,46771,Opp Admiralty Stn,46779,Admiralty Stn,47601,Blk 793,47609,Opp Blk 793,47611,Woodsvale Condo,47619,Opp Woodsvale Condo,47621,Flextronics,47629,Seagate
+Woodlands Ave 5,46291,Blk 106,46299,Opp Blk 106,46321,Woodlands Civic Ctr,46329,Opp Woodlands Civic Ctr,46641,Blk 894C,46649,Blk 515,47561,Blk 620,47569,Opp Blk 620,47571,Blk 618,47579,Blk 556,47581,Opp Blk 521,47589,Blk 519A CP,E4604,Non Stop
+Riverside Rd,46301,HLH Tyre & Battery,46309,Opp Pacific Vintex
+Woodlands Ave 1,46341,Rosewood,46349,Aft Blk 353,46351,Bef Woodgrove Condo,46359,Aft Blk 336,46591,Blk 303,46611,Fuchun Sec Sch,46619,Opp Fuchun Sec Sch,46621,Blk 335,46629,The Woodgrove,46971,Woodgrove Pr Sch,46979,Opp Blk 507,46981,Blk 541,46989,Opp Blk 540,46991,Blk 589,46999,Opp Blk 589,47639,Blk 418
+Woodlands St 41,46361,Blk 425,46369,Blk 413,46371,Blk 406,46379,Blk 409
+Woodlands Ave 3,46381,Opp Tech,46389,Tech,46491,Blk 402,46499,Opp Blk 402,46521,Marsiling Stn,46529,Opp Marsiling Stn,46531,Blk 173,46539,Blk 320,46541,Opp Blk 347,46549,Blk 347
+Woodlands Ave 4,46401,Blk 864,46409,Blk 701A CP,46411,Blk 869,46419,Evergreen Pr Sch,46651,Blk 550,46659,Opp Blk 550,46681,Blk 899A,46689,Blk 609,46691,Opp 888 Plaza,46699,888 Plaza,46961,Blk 547,46969,Blk 532
+Woodlands St 83,46421,Evergreen Sec Sch,46429,Blk 856
+Woodlands St 82,46431,Blk 840,46439,Blk 880,46441,Blk 816,46449,Blk 875
+Woodlands St 13,46551,Blk 101,46559,Opp Blk 101,46561,Opp Blk 178,46569,Blk 178,46571,Opp Blk 154,46579,Blk 154,46581,Opp Blk 146,46589,Blk 146
+Jln Trus,46609,Kotaraya II Ter
+Woodlands Dr 50,46661,Opp Blk 896B,46669,Woodlands Pr Sch,46671,Bef 888 Plaza,46679,Opp 888 Plaza
+Woodlands Ave 8,46711,Bef Admiralty Rd West,46719,Givaudan S'pore,46721,Opp Pacific Vinitex,46729,Pacific Vinitex
+Gambas Ave,46731,Yew Huat Scaffolding Work,46739,Opp Yew Huat Scaffolding Work,46741,Seagate,46749,Opp Seagate,58301,3M Bldg,58309,Opp 3M Bldg,E4609,Non Stop
+Woodlands Ave 6,46781,Bef Admiralty Pr Sch,46789,Opp Admiralty Pr Sch,46791,Blk 722,46799,Blk 786A CP,46801,Aft Woodlands Mart,46809,Opp Woodlands Mart,47539,Opp Woodgrove Sec Sch,47541,Blk 639,47549,Opp Blk 639,47551,Blk 630,47559,Opp Blk 630,47591,Blk 680,47599,Blk 683A
+Woodlands Circle,46811,Blk 726,46821,Blk 713,46831,Blk 747A CP,46841,Opp Blk 739A CP
+Woodlands Ring Rd,46851,Blk 664,46859,Blk 608A,46861,Opp Blk 624B,46869,Blk 628A,46871,Blk 644,46879,Blk 637
+Woodlands Loop,46881,Old Chang Kee Bldg,46891,Jordon Food Ind,46901,Blk 15,46911,Opp Blk 20
+Woodlands Link,46921,Opp Blk 22
+Woodlands Dr 14,46951,Blk 536A
+Admiralty Rd West,47021,Khalsa Crescent Drug Rehab Ctr,47029,Opp Khalsa Crescent Drug Rehab Ctr,47031,Bef Keramat Rd,47039,Aft View Rd,47041,Opp Woodlands Auto Hub,47049,Woodlands Auto Hub,47051,IM Flash S'pore,47059,Opp IM Flash S'pore,47061,Aft Attap Valley Rd,47069,Nth Tech,47071,Bef British American Tobacco,47079,Opp British American Tobacco,47801,Sunshine Bakery,47809,Opp Sunshine Bakery,47811,Woodlands Sunny Food,47819,Opp Woodlands Sunny Food,47821,Opp Sumitomo Bakelite S'pore,47829,Sumitomo Bakelite S'pore,58141,Sembawang Camp,58149,Opp Sembawang Shipyard G 8,58161,Bef Sembawang Shipyard G 3,58169,Aft HomeTeamNS Sembawang Resort,58171,Sembawang Corp Industries,58179,Opp Sembawang Corp Industries,58181,Sembawang Drug Rehab Ctr,58189,Opp Sembawang Drug Rehab Ctr
+Senoko Rd,47081,Packages Pte Ltd,47089,Aft Senoko Dr,47121,Opp Lian Aik Siong Machinery,47129,Lian Aik Siong Machinery,47131,Opp Wan Tai Co,47141,Opp Hi-Tech Fibre Glass (S) Pte Ltd,47151,Iplex Asia
+Senoko Dr,47091,Aft Senoko Rd,47099,Gold Kit,47101,Opp Garment Process,47109,Lian Beng Engrg,47169,Yee Lee Oils & Foodstuffs
+Senoko Ave,47111,Bef Senoko Way,47119,Aft Senoko Way
+Senoko Loop,47179,Su Bros Tpt Svc,47189,Print N Etch PCB,47199,Bef Senoko Dr
+Woodlands Dr 16,47501,Opp Blk 583,47511,Blk 554,47521,Opp Blk 575
+Woodlands Dr 62,47641,Blk 681A,47649,Opp Blk 681B
+Woodlands Dr 73,47651,Blk 684B,47659,Blk 685A
+Woodlands Cres,47661,Blk 788E,47671,Opp Admiralty Sec Sch,47681,Woodsvale Condo
+Jln Tun Abdul Razak,47701,JB Sentral,E4615,Non Stop
+Jln Jim Quee,47711,JB Sentral Bus Ter
+Mandai Lake Rd,48111,Aft Mandai Rd,48119,Bef Mandai Rd,48121,Bef S'pore Zoo,48129,Aft S'pore Zoo,48131,S'Pore Zoo
+Mandai Ave,48141,Opp Mandai Crematorium & Columbarium,48149,Mandai Crematorium & Columbarium,E4800,Non Stop
+Sg Kadut St 1,49011,Opp Kim Hock Corp Pte Ltd,49019,Kim Hock Corp Pte Ltd,49021,Whye Wah Devt & Construction,49029,Opp Whye Wah Devt & Construction,49031,Opp Crown Alliance Industries,49039,Asia Rattan Trading Co,49041,DHdeco Pte Ltd,49049,Sim Hup Co,49051,Aft Sg Kadut Eating Hse,49059,Aft LCS Optiroc Pte Ltd,49061,Poh Cheong Concrete Product,49069,Tropical Furniture Ltd
+Kranji Way,49141,Ctrl Granite Ind,49149,Bef Fishing Ground A,49151,Kwong Maw Sawmill,49159,Econ Group,49169,Tong Seng Concrete Ltd,49171,Seow Wee Trading,49179,Opp Seow Wee Trading,49199,Kranji Reservoir Pk B,49211,PUB Quarter,49219,Opp PUB Quarter
+Kranji Loop,49181,Dapolite Ind,49189,Aft Kranji Rd
+Neo Tiew Cres,49209,Sg Buloh Wetland Reserve,49229,Long Kuan Hung Crocodile Farm,49239,Opp Nyee Phoe Group,49249,Dragon Fish Ind
+Keng Lee Rd,50019,Parish Of Christ Ch
+Thomson Rd,50021,United Sq,50029,Opp United Sq,50031,Opp Novena Ch,50037,Novena Ch,50038,Novena Stn,50041,Novena Lodge,50049,Opp Novena Lodge,50051,Thomson Med Ctr,50059,Opp Thomson Med Ctr,51011,Opp Tan Tong Meng Twr,51019,Thomson Flyover,51021,Old Police Academy,51029,Opp Old Police Academy,51031,S'pore Polo Club,51039,Opp S'pore Polo Club,51041,Opp SLF Cplx,51049,SLF Cplx,51051,MediaCorp,51059,Opp MediaCorp,51069,Mt Alvernia Hosp,51071,Macritchie Reservoir,51079,Opp Macritchie Reservoir
+Norfolk Rd,50071,Bef Carlisle Rd,50079,Opp Carlisle Rd
+Owen Rd,50081,Blk 41A,50089,Blk 51
+Moulmein Rd,50111,Revival Ctr Ch,50119,St. Michael's Sch,50121,Natl Skin Ctr,50129,Opp Tan Tock Seng Hosp
+Kim Keat Rd,50159,Opp Jumbo Ind Bldg,52099,Opp NKF,E5206,Non Stop
+Balestier Rd,50161,Balestier Ctr,50169,Aft Irrawaddy Rd,50171,Zhongshan Mall,50179,Opp Zhongshan Mall,50189,Opp Public Man,50191,Bef Balestier Plaza,50199,HMI Balestier Hosp,50201,Shaw Plaza,50209,Aft Pegu Rd,50211,Opp Balestier Pt,50221,Opp Balestier Twrs,50229,Balestier Twrs,50231,ITE Balestier,50239,S'pore Indian Assn,50241,Opp S'pore Khalsa Assn,50249,S'pore Khalsa Assn
+Rangoon Rd,50251,Farrer Pk Stn,50259,Opp Farrer Pk Stn,50261,Kentish Lodge
+Gloucester Rd,50279,Aft Blk 9
+Kent Rd,50301,Kentish Green
+Dorset Rd,50321,Aft Gloucester Rd,50351,Farrer Pk Tennis Ctr
+Mcnair Rd,50331,Blk 122
+Towner Rd,50349,Blk 107
+Whampoa Dr,50991,Blk 82
+Marymount Rd,51081,Opp Marymount Convent Sch,51089,Bef Marymount Convent Sch,53111,Bef Marymount Lane,53119,Aft Bishan St 21,53121,Marymount Stn,53129,Opp Marymount Stn,53131,Blk 319,53139,Marymount View,53141,Opp Whitley Sec Sch,53149,Whitley Sec Sch,53151,Opp Blk 263A CP,53159,Blk 260,53161,Opp Blk 254,53169,Blk 254
+Braddell Rd,51131,Opp Braddell View,51139,Braddell View,52011,Bef Bishan Rd,52019,Aft Bishan Rd,52021,Opp Blk 1004,52029,Blk 1004,52031,Opp Blk 998,52039,Aft Muhajirin Mque,52051,Blk 147,52059,Blk 219,52061,BCA Academy,52069,Comfortdelgro Corp Ltd,66061,Aft Braddell Flyover,66069,Bef Braddell Flyover,66071,Opp PUB Recreation Club,66079,PUB Recreation Club,66081,Opp S'pore Power Trg Inst,66089,S'pore Power Trg Inst,E5205,Non Stop
+Lor 6 Toa Payoh,52008,Toa Payoh Int,52009,Toa Payoh Int,52321,Toa Payoh Stadium,52329,Opp Toa Payoh Stadium,52331,Blk 27,52339,Blk 32,52341,Pei Chun Public Sch,52349,United Medicare Ctr,52351,Blk 2,52359,Blk 52,52361,Blk 1,52369,Blk 237,52501,Toa Payoh Swim Cplx,52509,Opp Toa Payoh Swim Cplx
+Jln Tenteram,52049,Blk 19,52119,Opp Blk 65
+Jln Toa Payoh,52071,Trellis Twrs,52079,Opp Trellis Twrs,52081,Aft Blk 195,52089,Opp Blk 195,60081,St. Andrew's Jnr Sch,60089,Opp St. Andrew's Jnr Sch,E5207,Non Stop,E6008,Non Stop
+Jln Bahagia,52109,Bet Blks 33/34,52129,Blk 29
+Lor 1 Toa Payoh,52131,Blk 163,52139,Oleander Twrs,52141,Philips S'pore,52149,Opp Philips S'pore,52151,Blk 166,52159,Blk 128,52161,Blk 111,52169,Blk 117,52171,Opp Braddell Stn,52179,Braddell Stn,52441,Blk 202,52449,Toa Payoh Police Ctr,E5200,Non Stop
+Lor 2 Toa Payoh,52181,Opp Toa Payoh Stn,52189,Toa Payoh Stn,52191,Blk 140,52199,Blk 84B,52201,Blk 121,52209,Blk 101C CP,E5213,Non Stop
+Toa Payoh Rise,52211,Bef Lor 1 Toa Payoh,52219,Aft Lor 1 Toa Payoh,52241,Lions Nursing Home,52249,Opp Lions Nursing Home,52559,Caldecott Stn
+Lor 3 Toa Payoh,52221,Opp Jackson Sq,52229,Jackson Sq,E5202,Non Stop
+Toa Payoh Ctrl,52231,Opp Blk 177,52239,Blk 177
+Lor 4 Toa Payoh,52251,Chung Hwa Free Clinic,52259,Opp Chung Hwa Free Clinic,52261,Opp Blk 73,52269,Blk 73,52271,Jackson Sq,52279,Blk 56,E5203,Non Stop
+Lor 5 Toa Payoh,52281,Blk 68,52289,Blk 34,52291,Blk 59,52299,Blk 50
+Toa Payoh East,52301,Blk 35,52309,Blk 30,52311,Blk 23,52319,Blk 25
+Lor 8 Toa Payoh,52371,First Toa Payoh Pr Sch,52381,Braddell Tech Bldg,52389,Blk 227,52391,Opp Blk 231,52399,Blk 231,52481,Toa Payoh Polyclinic,52489,Opp Toa Payoh Polyclinic,52529,Bef Blk 221,52539,Blk 210 Mkt/FC
+Jln Rajah,52401,Blk 102,52409,Opp Blk 102,52411,Blk 105,52419,Curtin S'pore
+Lor 7 Toa Payoh,52429,Blk 17A,52439,Opp Blk 5
+Whampoa Rd,52451,Blk 114,52499,St. Michael's Ter
+Ah Hood Rd,52471,EASB,52479,Opp EASB
+Bishan St 13,53009,Bishan Int,53271,Opp Kuo Chuan Presby Sch,53279,Kuo Chuan Presby Sch,53281,Blk 169,53289,Zion Bible Presby Ch
+Upp Thomson Rd,53011,St. Theresa's Home,53019,Opp St. Theresa's Home,53021,Opp Shunfu Est,53029,Shunfu Est,53039,Thomson CC,53041,Bef Thomson Ridge,53049,Bef Jln Todak,53051,Bef Thomson Plaza,53059,Opp Thomson Plaza,53061,Thomson View Condo,53069,Opp Windsor Pk,53071,Opp Flame Tree Pk,53079,Flame Tree Pk,53081,Opp Faber Gdn,53089,Faber Gdn,53091,Bef Ang Mo Kio Ave 1,53099,Aft Ang Mo Kio Ave 1,56019,Bef Ang Mo Kio Ave 1,56021,Opp S'wang Hill FC,56029,JCU S'pore,56031,Bef Yio Chu Kang Rd,56039,Aft Yio Chu Kang Rd,56041,Opp Meadows @ Pierce,56049,Meadows @ Pierce,56051,Opp 3M S'pore,56059,Aft 3M S'pore,56061,Aft NTUC Fairprice Ctr,56069,Bef NTUC Fairprice Ctr,56071,Bef Old Upp Thomson Rd,56079,Aft Old Upp Thomson Rd,56081,Bef SLE,56089,Aft SLE,56091,Opp Thong Soon Rd,56099,Opp Former Seletar Inst,57011,Opp Nessea Club,57019,Nessea Club
+Sin Ming Dr,53101,Opp LTA Bldg,53109,LTA Bldg,53201,Opp Semac,53209,Semac
+Sin Ming Rd,53171,Blk 23,53179,Sin Ming Plaza,53181,Amtech Bldg,53189,Blk 25,53191,Blk 7 Ind Est,53199,Blk 22A CP,53999,Sin Ming Ter
+Bishan Rd,53211,Opp Raffles Inst,53219,Raffles Inst,53231,Bishan Stn,53239,Opp Bishan Stn,53241,Opp Blk 217,53249,Blk 210,54531,MRT Bishan Depot,54539,Bishan Pk
+Bishan St 11,53221,Blk 115,53229,Blk 501,53251,Blk 125,53259,Opp Blk 125,E5300,Non Stop
+Bishan St 14,53261,Opp Bishan Stadium,53269,Bishan Stadium
+Shunfu Rd,53291,Shunfu Mart,53299,Blk 314
+Bishan St 21,53301,Raffles Inst,53309,Opp Raffles Inst,53311,Opp Bosch,53319,Bosch
+Sin Ming Ave,53321,CityCab,53329,Opp CityCab,53331,Bef Bright Hill Tp,53339,Opp Bright Hill Tp,53341,Blk 407,53349,Bishan Pk Sec Sch,53351,Ai Tong Sch,53359,Opp Ai Tong Sch,53361,Blk 454,53369,Opp Blk 454
+Bishan St 22,53371,Blk 257,53379,Blk 245,53381,Bishan Nth Shop Mall,53389,Opp Bishan Nth Shop Mall,53391,Opp Blk 203,53399,Blk 202
+Bishan St 12,53401,Opp Blk 131,53409,Blk 131,53419,Blk 117
+Ang Mo Kio Ave 8,54009,Ang Mo Kio Int,54311,Blk 332,54319,Opp Christ The King Ch,54321,Blk 354,54329,Blk 420,54331,Blk 346,54339,Blk 422,54341,Opp Blk 504,54349,Blk 504,54391,Jubilee,54399,Opp Blk 710,55321,Opp Nanyang Poly,55329,Nanyang Poly,55509,Yio Chu Kang Int
+Ang Mo Kio Ave 6,54011,Blk 207,54019,Aft Blk 304,54031,Opp Al-Muttaqin Mque,54039,Bef Al-Muttaqin Mque,54041,Opp Courts Ang Mo Kio,54049,Courts Ang Mo Kio,54051,Opp Ang Mo Kio Lib,54059,Bef Ang Mo Kio Lib,55171,Castle Green,55179,Opp Castle Green,55181,Opp Yio Chu Kang Stn,55189,Yio Chu Kang Stn,55201,Opp Anderson JC,55209,Anderson JC
+Ang Mo Kio Ave 1,54061,Blk 246,54069,Opp Blk 246,54071,Blk 310,54079,Opp Blk 315,54081,Teck Ghee Ct,54089,Opp Ang Mo Kio Swim Cplx,54091,Blk 331,54099,Opp Blk 333,54101,Aft Ang Mo Kio Ave 10,54109,Bef Ang Mo Kio Ave 10,54611,Blk 220,54619,Opp Blk 220,54621,Blk 223,54629,Opp Blk 223,56261,Blk 248,56269,Opp Blk 248,66091,Golden Hill Est,66099,Opp Golden Hill Est
+Ang Mo Kio St 11,54161,Opp Blk 255,54169,Blk 255
+Ang Mo Kio Ave 4,54181,Blk 258,54189,Blk 110,54191,Blk 170,54199,Blk 163,54201,Opp Blk 155,54209,Bet Blks 152/155,55131,Blk 612,55139,Blk 641,55141,Opp Blk 622,55149,Blk 622
+Ang Mo Kio Ave 3,54211,Mayflower Sec Sch,54219,Opp Mayflower Sec Sch,54221,Opp Ang Mo Kio Pr Sch,54229,Ang Mo Kio Pr Sch,54231,Blk 129,54239,Blk 209,54241,Blk 700B,54247,Blk 322,54248,Blk 324,54261,Ang Mo Kio Stn,54269,Opp Ang Mo Kio Stn,54271,Blk 586,54279,Blk 427,54281,Blk 570,54289,Blk 452,54291,Blk 564,54299,Opp Blk 565,54301,Blk 5022,54309,Opp Blk 5022,66101,Blk 516,66109,Blk 151,66331,Blk 554,66339,Blk 101,66341,Daikin S'pore,66349,Opp Daikin S'pore
+Ang Mo Kio Ave 5,54251,Opp Anderson JC,54259,Anderson JC,54351,Nanyang Poly,54359,Blk 502,54451,Blk 643,54459,Blk 151,54461,Blk 649,54469,Opp Blk 649,54471,Opp Blk 538,54479,Blk 538,54481,ITE College Ctrl,54489,Opp ITE College Ctrl,54491,Aft CTE,54499,Bef CTE,54501,Opp AMK Ind Pk 2,54509,Aft Blk 5000,54651,Opp Techplace 2,54659,Techplace 2,55111,Blk 180,55119,Blk 617,55121,Opp Blk 604,55129,Blk 604,66451,Aft AMK Ind Pk 2,66459,Aft Seagate,66461,Bef Seagate,66471,Bef Yio Chu Kang Rd,66479,Aft Yio Chu Kang Rd
+Ang Mo Kio Ind Pk 1,54369,Opp Blk 4025
+Ang Mo Kio Ave 10,54371,Blk 409A,54379,Blk 475,54381,Blk 443,54389,Blk 465,54571,Blk 532,54579,Blk 540,54581,Blk 574,54589,Blk 555,54601,Townsville Pr Sch,54609,Opp Townsville Pr Sch
+Ang Mo Kio St 52,54401,Blk 522,54409,Opp Blk 522,54411,Blk 527,54419,Opp Blk 527
+Ang Mo Kio St 54,54429,Blk 561,54439,Blk 549
+Ang Mo Kio St 53,54441,Blk 507,54449,Opp Blk 507
+Ang Mo Kio Ind Pk 2,54511,Blk 5028,54519,Opp Blk 5023,54521,Blk 5046,54529,Opp Blk 5093,54591,Blk 5084,54599,Blk 5056,54631,Opp Tyco Electronics,54641,Sing Ind Cplx
+Ang Mo Kio St 63,55009,Ang Mo Kio Depot,55231,Opp SBST East District,55239,SBST East District
+Yio Chu Kang Rd,55011,Opp The Calrose,55019,The Calrose,55021,Opp Seasons Pk,55029,Seasons Pk,55031,Opp NCS Hub,55039,NCS Hub,55041,Opp Motorola,55049,Motorola,55051,Opp ST Electronics,55059,ST Electronics,55071,Bef KLC Sch Of Edn,55079,Aft KLC Sch Of Edn,55081,Opp Sunrise Gdns,55089,Aft Sunrise Gdns,55101,Opp Serenity Pk,55109,Serenity Pk,56191,Opp NPB Serangoon Depot,56199,NPB Serangoon Depot,56201,Aft Munshi Abdullah Ave,56209,Bef Thomson Hills Dr,63151,Bef Kovan Ctr,63159,Highland Ctr,63161,Serangoon Swim Cplx,63169,Opp Serangoon Swim Cplx,63179,Bef Tai Seng Chr Ch,63181,Bef St. Helier's Ave,63189,Aft Serangoon Gdn Way,63191,Aft Serangoon Nth Ave 1,63199,Aft Serangoon Nth Ave 1,63201,Blk 133,63209,Toho Green,63211,Blk 138,63219,Opp Blk 139,64101,Opp Gracehaven S Army,64109,Gracehaven S Army,64111,Opp Blk 953,64119,Blk 953,64121,Aft Ang Mo Kio Ave 5,64129,Blk 988B,67011,TAS Receiving Stn,67019,Opp TAS Receiving Stn,67021,Opp Dedap Rd,67029,Aft Dedap Rd,67039,Aft Jln Kayu,67041,Aft Jln Kayu,67049,Aft Jln Redop,67051,Opp Seletar Hills Est,67059,Seletar Hills Est,67061,Aft Jln Selaseh,67069,Bef Jln Selaseh,67071,Bef Gerald Dr,67079,Ch Of St. Vincent De Paul,E5610,Non Stop
+Ang Mo Kio Ave 9,55151,Ang Mo Kio Comm Hosp,55159,Opp Ang Mo Kio Comm Hosp,55301,AMK Police Div HQ,55309,Opp AMK Police Div HQ,55311,Opp Yio Chu Kang Stadium,55319,Yio Chu Kang Stadium
+Ang Mo Kio St 61,55169,Mkt/FC,55199,Blk 645
+Ang Mo Kio St 62,55211,Aft Ang Mo Kio Fire Stn,55219,Bef Ang Mo Kio Ave 9
+Ang Mo Kio St 64,55221,Opp SMRT Buses AMK Depot,55229,SMRT Buses AMK Depot
+Lentor Ave,55241,Aft Yio Chu Kang Rd,55249,Bef Yio Chu Kang Rd,55251,Countryside Est,55259,Opp Countryside Est,55261,Bullion Pk Condo,55269,Opp Bullion Pk Condo,55271,Aft Lentor Flyover,55279,Lentor Flyover,55281,Aft SLE,55289,LP 94,59011,Bef Sg Seletar Bridge,59019,Aft Sg Seletar Bridge,59021,Bef Yishun Ave 1,59029,Aft Yishun Ave 1,E5608,Non Stop
+Lentor Loop,55331,Aft Lentor Gr,55339,Aft Florissa Pk,55361,Countryside Gdn P/G,55371,Aft Lentor St,55381,Bef Bullion Pk,E5606,Non Stop
+Lentor Dr,55341,Opp Thomson Gr,55349,Thomson Gr
+Lentor Rd,55351,Opp Fudu Walk P/G
+Ang Mo Kio Ave 2,56241,St. Nicholas Girls',56249,Opp St. Nicholas Girls',56251,Opp Horizon Gdns,56259,Horizon Gdns,56289,Bef Shangri-La Walk
+SLE,56995,Express,56996,Express,E5609,Express,SLE,Express
+Sembawang Rd,57021,Forest Hills Condo,57029,Aft The Springside,57031,Nee Soon Driclad Ctr,57039,Bef Spiritual Grace Presby Ch,57041,Nee Soon HQ 22 SIB,57049,Opp Nee Soon HQ 22 SIB,57051,Aft Sembawang Air Base,57059,Opp Sembawang Air Base,57061,Dieppe Barracks,57069,Opp Dieppe Barracks,57071,Opp Khatib Camp,57079,Khatib Camp,57081,Opp Blk 713,57089,Blk 713,57111,Opp Blk 101,57119,Blk 101,57121,Opp Blk 115B,57129,Blk 114,57131,Seletaris Condo,57139,Aft Jln Kemuning,58011,Opp Sembawang Shop Ctr,58019,Aft Sembawang Shop Ctr,58021,Bef Canberra Rd,58029,Aft Canberra Rd,58041,Aft Yishun Ave 2,58049,Bef Yishun Ave 2,58051,Bef Sembawang CC,58059,Aft Sembawang CC,58061,Aft The Ashram,58069,Opp The Ashram,58071,Prison Trg Sch,58079,Opp Prison Trg Sch,58081,Opp Jln Janggus,58089,Aft Andrews Ave,58091,Sembawang Pk,58099,Opp Sembawang Pk,E5802,Non Stop
+Sembawang Vista,58009,Sembawang Int,58241,Opp Blk 315,58249,Blk 309
+Canberra Rd,58101,Blk 311,58109,Opp Blk 311,58111,Blk 351 CP,58119,Blk 502A,58121,Blk 424A CP,58129,Blk 508 CP,58131,Aft Assyafaah Mque,58139,Aft Ottawa Rd,58151,Bef Sembawang Stn,58159,Aft Admiral Hill
+Admiralty Rd East,58191,Aft Wellington Rd,58199,Opp Auckland Rd,58201,Bef Prison Trg Sch,58209,Aft Pakistan Rd
+Sembawang Way,58211,Sembawang Stn,58219,Opp Sembawang Stn,58221,Blk 339 CP,58229,Blk 358A CP,58381,Blk 469B,58389,Opp Blk 469B
+Sembawang Dr,58251,Sun Plaza,58259,Opp Sun Plaza,58291,Blk 317,58299,Blk 328,58311,Blk 354 CP,58319,Blk 357C,58341,Blk 405,58349,Blk 478,58351,Blk 483,58359,Opp Blk 484A CP,58451,Aft Heavy Veh Pk,58459,Bef Heavy Veh Pk,E5800,Non Stop
+Sembawang Cres,58271,Blk 335,58279,Opp Blk 336A CP,58281,Sembawang Sec Sch,58289,Opp Sembawang Sec Sch,58371,Bet Blks 325/326,58379,Opp Blk 325
+Admiralty Dr,58321,Bet Blks 357/359,58329,Blk 474,58421,Blk 353,58429,Bet Blks 415/416,N5801,Blk 353
+Canberra Link,58331,Blk 589D,58339,Opp Blk 589D
+Admiralty St,58361,Nth Link Bldg,58369,Bef LP 8,E5803,Non Stop
+Sembawang Ave,58391,Blk 303,58399,Opp Blk 303,E5801,Non Stop
+Admiralty Link,58401,Opp Blk 491,58409,Blk 491,58411,Blk 404A CP,58419,Blk 482A CP
+Champions Way,58439,Innova JC,58449,S'pore Sports Sch,58461,Innova Pr Sch,E5805,Non Stop
+Woodlands Dr 17,58479,Aft Innova Pr Sch,E4618,Non Stop
+Wellington Circle,58481,Opp Wellington Pr Sch,58489,Wellington Pr Sch
+Montreal Dr,58491,Opp Blk 507A,58499,Blk 506A
+Montreal Link,58501,Blk 592A,58509,Blk 590A
+Canberra st,58511,Blk 104C,58519,OPP BLK 104B,58521,BLK 106A,58529,BLK 108 CP
+Canberra Way,58531,BLK 129A,58539,BLK 120A
+Yishun Ave 2,59008,Yishun Temp Int,59009,Yishun Temp Int,59031,Opp Yishun Sports Hall,59039,Yishun Sports Hall,59041,Bef Khatib Stn,59049,Opp Khatib Stn,59051,Blk 790,59059,Blk 608,59061,Blk 763,59069,Opp Blk 757,59072,Northpoint Shop Ctr,59073,Aft NorthPoint Shop Ctr,59079,Yishun Stn,59091,Blk 154,59099,Blk 220,59251,Opp Darul Makmur Mque,59259,Darul Makmur Mque,59521,Yishun Sapphire,59529,Opp Yishun Sapphire,59671,Bef Yishun Stn,E5904,Non-Stop
+Yishun Ring Rd,59081,Blk 774,59089,Opp Blk 774,59101,Yishun Pr Sch,59109,Opp Yishun Pr Sch,59121,Blk 121,59129,Opp Blk 121,59131,Blk 137,59139,Aft Chong Pang CC,59231,Blk 227,59239,Blk 291,59241,Blk 236,59249,Blk 257,59301,Blk 731,59309,Jiemin Pr Sch,59311,Blk 760,59319,Yishun JC,59321,Blk 794,59329,Naval Base Sec Sch,59381,Blk 314,59389,Opp Blk 314,59391,Blk 342B,59399,Opp Blk 367,59401,Blk 358,59409,Evangel Family Ch,59411,Blk 356,59419,Blk 413,59421,Blk 624,59429,Blk 846,59431,Blk 630,59439,Blk 858,59561,Blk 798,59569,Opp Blk 798,59571,Opp Northbrooks Sec Sch,59579,Blk 456,59631,Opp Blk 445,59639,Bet Blks 445/449,59711,Blk 672C,59719,Opp Blk 672C
+Yishun Ave 5,59111,Blk 701,59119,Opp Blk 701A,59141,Blk 741,59149,Blk 145,59159,Blk 151
+Yishun Ctrl,59161,Opp Blk 201,59169,Bet Blks 201/202,59341,Khoo Teck Puat Hosp,59349,Opp Khoo Teck Puat Hosp,59351,Opp Blk 322,59359,Blk 322,59689,Blk 203,59701,Opp SAFRA Yishun,59709,Bef SAFRA Yishun,E5901,Non Stop
+Yishun Ave 9,59171,Blk 309,59179,Blk 241,59181,Opp Blk 245,59189,Blk 245
+Yishun Ave 6,59191,Opp Northland Sec Sch,59199,Blk 250,59201,Opp Chongfu Pr Sch,59209,Blk 272,59591,Bet Blks 405/406,59599,Opp Blk 406,59601,Bet Blks 391/392,59609,Opp Blk 392,59621,Bet Blks 318A/318B
+Yishun Ave 7,59211,Blk 289,59219,Opp Blk 288,59221,Aft LP 48,59229,Aft LP 47,59261,Blk 174,59269,Opp Blk 174,59271,Blk 118,59279,Opp Ahmad Ibrahim Sec Sch
+Yishun Ave 4,59281,Blk 654,59289,Blk 676 CP,59291,Blk 666,59299,Blk 671 CP,59441,Naval Base Pr Sch,59449,Opp Naval Base Pr Sch
+Yishun Ave 3,59331,Blk 773,59339,Blk 776,59541,Opp Khatib Camp,59549,Khatib Camp,59551,Blk 722,59559,Opp Blk 722
+Yishun St 61,59361,Blk 602,59369,Blk 647,59371,Chung Cheng High Sch,59379,Opp Chung Cheng High Sch
+Yishun Ave 11,59451,Bet Blks 349/350,59459,Opp Huamin Pr Sch,59461,Opp Blk 419,59469,Blk 419,59651,Blk 348B
+Yishun Ave 1,59471,Blk 430B,59479,Opp Blk 433,59501,Blk 871,59509,Opp Blk 871,59721,Blk 816,59729,Opp Blk 816,59731,Blk 512A,59739,Opp Blk 512A,59741,Opp Orchid Country Club,59749,Orchid Country Club,59751,Opp The Shaughnessy,59759,The Shaughnessy,59761,BLK 504C,68171,Bef Yishun Ave 8
+Yishun St 81,59481,Blk 873,59499,Orchid Pk Condo
+Yishun St 71,59511,Yishun Sec Sch
+Yishun St 41,59581,Blk 432C,59589,Blk 505C
+Yishun Ctrl 2,59611,Aft Yishun Ctrl,59619,Aft Yishun Ctrl 1
+Yishun St 31,59641,Bet Blks 333C/333D,59649,Opp Blk 333C,E5903,Non Stop
+Yishun Ctrl 1,59661,Opp Yishun Polyclinic,59669,Yishun Polyclinic,59691,Bef Blk 935,59699,Opp Blk 935,E5900,Non Stop
+Kallang Bahru,60011,S'pore Post,60019,Opp S'pore Post,60021,Chubb S'pore,60029,Blk 16,60031,Blk 66,60039,Opp Blk 66
+Boon Keng Rd,60051,Opp Kallang Pl,60059,Bef Kallang Pl,60191,Blk 12,60199,Blk 22
+Jln Kolam Ayer,60061,Aft Infineon,60069,Kallang Basin Swim Cplx,60071,Kolam Ayer Ind Est,60079,MOM Svcs Ctr
+Bendemeer Rd,60099,Bef Lavender St,60119,Opp Blk 30,60139,Blk 44,60159,Blk 54,60179,MOM Svcs Ctr,E6000,Non Stop
+Upp S'goon Rd,60201,Leong Bee Ct,60209,Opp Leong Bee Ct,60261,Potong Pasir Stn,60269,Potong Pasir Stn,61011,Blk 103,61019,Opp Blk 101,61021,Aft Woodleigh Pk,61029,Opp Woodleigh Pk,61031,Woodleigh Stn,61039,Woodleigh Stn,61041,Bef Braddell Rd,61049,Aft Bartley Rd,62111,Aft Sommerville Rd,62119,Aft Sunshine Lodge,62121,Aft Wolskel Rd,62129,Blk 403,62131,S'goon Stn,62139,OPP S'GOON STN,62141,Opp Blk 1,62149,Paya Lebar Camp,62189,Blk 416,63011,Nam Peng Ctr,63019,Aft Serangoon Shop Ctr,63021,The Helping Hand,63029,Opp The Helping Hand,63031,Kovan Stn,63039,Kovan Stn,63041,Opp Glad Tidings Ch,63049,Glad Tidings Ch,63051,Serangoon JC,63059,Opp Serangoon JC,63061,Aft Hougang Ave 2,63069,Bef Hougang Ave 3,64011,Naung Ct,64019,Blk 302,64041,Hougang Plaza,64049,Opp Hougang Plaza,64051,Blk 465A,64059,Blk 355,64061,Opp Serangoon Sec Sch,64069,Serangoon Sec Sch,64401,Opp Blk 477A,64409,Blk 477A
+MacPherson Rd,60211,Aft Tai Thong Cres,60219,Bef Siemens Ctr,70101,Opp Gulab Bldg,70109,Gulab Bldg,70111,Opp Cencon Bldg,70119,Cencon Bldg,70121,Aft Jln Muhibbah,70129,Opp Jln Muhibbah,70131,Bef Davidson Rd,70139,Aft Jln Belangkas,70141,Citimac Ind Cplx,70149,MacPherson Green Condo
+Geylang Bahru,60221,Blk 73,60229,Blk 68,80291,Blk 82,80299,Opp Blk 82
+Whampoa East,60231,Beng Wan Pr Sch,E6003,Non Stop
+St. George'S Rd,60241,Blk 1,60249,Blk 14
+St. Wilfred Rd,60251,Blk 15
+Potong Pasir Ave 1,61009,Blk 122,61061,Blk 148,61069,Blk 101,61079,Blk 121,61101,Blk 120
+Upp Aljunied Rd,61051,Aft Upp Serangoon Rd,61059,Bef Upp Serangoon Rd,70041,Opp Blk 4,70049,Aft Blk 4,70051,Aft Joo Seng Rd,70059,Bef Joo Seng Rd,70061,Opp Mt Vernon Crematorium,70069,Mt Vernon Crematorium
+Potong Pasir Ave 3,61089,Bet Blks 138/144
+Potong Pasir Ave 2,61099,Potong Pasir CC
+Upp Paya Lebar Rd,62011,Aft Bartley Rd,62019,Aft Rochdale Rd,62021,Wisma AUPE,62029,Paya Lebar Gdns,62031,How Sun Pk,62039,Raya Gdn,62041,Opp Bethany Presby Ch,62049,After Paya Lebar Crescent,62051,Paya Lebar Camp,62059,Blk 161,70281,Aft Tai Seng Stn,70289,Opp Tai Seng Stn,70291,Asiawide Ind Bldg,70299,Opp Asiawide Ind Bldg,70301,Aft Paya Lebar St,70309,Opp Paya Lebar St
+Bartley Rd,62061,Aft Upp Paya Lebar Rd,62069,Bef Upp Paya Lebar Rd,62071,Opp Bartley Stn,62079,Bartley Stn,62081,Opp Bartley Chr Ch,62089,Bartley Chr Ch,62091,Opp Bartley Terr,62099,Classical Terr,62101,Bef Upp Serangoon Rd,62109,Aft Upp Serangoon Rd
+S'goon Ave 1,62151,Rindu Terr,62159,Opp Rindu Terr,62161,St.Gabriel's Sec Sch,62169,Blk 426
+S'goon Ctrl,62171,Blk 409,62179,Blk 421,66008,Serangoon Int,66009,Serangoon Int,66351,Serangoon Stn,66359,OPP S'GOON STN,66371,Blk 261,66379,Blk 206
+Hougang St 11,62219,Blk 158
+Lor Ah Soo,62221,Opp The Minton,62229,The Minton,63291,Opp Blk 115,63299,Blk 115,63301,Paya Lebar Girls' Sch,63309,Opp Paya Lebar Girls' Sch
+Hougang Ave 3,62231,Bef S'pore Girls' Home,62239,Opp S'pore Girls' Home,62241,SBST Hougang Depot,62249,Opp SBST Hougang Depot,63071,Opp Blk 248,63079,Blk 248,63081,Opp Blk 241,63089,Blk 241,63091,Opp Blk 106,63099,Blk 106,63101,Opp Blk 169,63109,Blk 172,63241,Blk 21,63249,Blk 1,71051,Aft Kim Chuan Rd,71059,Bef Kim Chuan Rd,71061,Bef Airport Rd,71069,Aft Airport Rd,E6401,Non Stop
+Upp S'goon Cres,62251,Bef Blk 471B,62271,Opp Blk 475B
+Upp Serangoon View,62261,Opp S'goon Sec Sch
+Tampines Rd,63119,Bef Upp Serangoon Rd,63131,Wing Tai Bldg,63139,Aft En-Naeem Mque,64131,Bef KPE,64139,Bef KPE,64141,Aft Jln Telawi,64149,LP 137,64151,Aft Greenwich Dr,64159,Bef Greenwich Dr,64161,Schenker,64169,Opp Schenker,64171,Aft Buangkok East Dr,64179,Bef Buangkok East Dr,64181,Bef TPE,64189,Aft Old Tampines Rd,64191,Aft TPE,64199,Bef TPE,64201,Aft Hougang Ave 3,64209,Aft Defu Ave 1,64211,Heavy Veh CP,64219,Opp Heavy Veh CP,64221,Opp Defu Ave 2,64229,Bef Defu Ave 2,64995,Express,73021,LP 223R12,73029,Opp LP 223R10,73031,Bef Tampines Ind Ave 5,73039,Aft Tampines Ind Ave 5,74011,Aft Tampines Ind Ave 5,74019,Bef Tampines Ind Ave 5,74021,Bef Tampines Ind Ave 4,74029,Aft Tampines Ind Ave 4,74031,Aft Jln Sam Kong Si,74039,Bef Jln Sam Kong Si
+Boundary Rd,63141,Blk 209,63149,Serangoon Stadium,66041,Blk 230,66049,Blk 233,66051,Opp Blk 257,66059,Blk 257A
+Hougang St 21,63221,Hougang St 21 FC,63229,Aft Blk 207,63231,Bet Blks 210/211,63239,Opp Blk 210
+Hougang Ave 1,63261,Opp Blk 232,63269,Blk 232,63271,Blk 239,63279,Opp Yuying Sec Sch,63281,Blk 105 Mkt/FC,63289,Aljunied CC
+Hougang Ave 2,63311,Blk 634,63319,Opp Blk 634,63321,Blk 627,63329,Opp Blk 627,63331,Blk 615,63339,Opp Blk 615,63341,Opp Blk 709,63349,Blk 708
+Hougang Ave 10,63351,Opp Hougang Swim Cplx,63359,Hougang Swim Cplx,64021,Blk 458,64029,Opp Blk 458,64381,Opp Blk 521,64389,Blk 522,64391,Blk 831,64399,Blk 512,64421,Blk 421,64429,Blk 412
+Yio Chu Kang Link,63361,Opp Serangoon Swim Cplx,63369,Serangoon Sports Cplx
+Hougang Ave 8,63371,Blk 679,63379,Blk 608,63381,Xinmin Pr Sch,63389,Opp Xinmin Pr Sch,63391,Blk 639,63399,Blk 632,64031,Blk 436,64039,Blk 434,64071,Opp Punggol Pk,64079,Punggol Pk,64341,Blk 681,64349,Blk 502,64351,Opp Montfort Sch,64359,Montfort Sch,64361,Blk 535,64369,Blk 532
+Hougang Ctrl,64009,Hougang Ctrl Int,64541,Hougang Ctrl Int,64549,Opp Hougang Ctrl Int,64551,Blk 836,64559,Blk 830A
+Hougang St 91,64081,Hougang 1,64251,Hougang Sec Sch,64259,Blk 925A
+Hougang St 93,64091,Hougang Pr Sch
+Hougang Ave 7,64231,Blk 316,64239,Opp Blk 316,64301,Blk 325,64309,Opp Blk 321,64311,Blk 344,64319,Opp Blk 344,64321,Blk 350,64329,Rio Vista
+Hougang Ave 5,64241,Blk 308,64249,Blk 327
+Hougang Ave 4,64331,Blk 508,64339,Blk 602,64411,Blk 670,64419,Blk 681,64521,Blk 834,64529,Hougang Polyclinic,64601,Blk 919,64609,Blk 687,64611,Blk 913,64619,Opp Blk 913
+Hougang Ave 6,64371,Opp Punggol CC,64379,Punggol CC,64571,Blk 438,64579,Bet Blks 544/546
+Hougang St 51,64431,Blk 568,64439,Blk 537,64441,Hougang G. Shop Mall,64449,Opp Hougang G. Shop Mall,64561,Blk 574
+Buangkok Green,64461,Blk 579,64469,Opp Blk 579,64621,Blk 565,64629,Opp Blk 565,66481,Opp Blk 968,66489,Blk 969,66491,Opp Blk 910,66499,Blk 911
+Hougang Ave 9,64471,Blk 917,64479,Blk 665,64481,Bet Blks 930/931,64489,Blk 946A,64491,Hougang 1,64499,Regentville
+Hougang St 92,64509,Blk 941A,64519,Blk 943
+KPE,64996,Express,KPE,Express
+Punggol Pl,65008,Punggol Temp Int,65009,Punggol Temp Int,65211,Aft Punggol Field,65219,Aft Punggol Ctrl,65351,Punggol View Pr Sch,65359,Opp Punggol View Pr Sch,65995,Express
+Punggol Rd,65011,Opp The Rivervale,65019,The Rivervale,65021,Opp Blk 110,65029,Blk 111,65031,Blk 227D,65039,Blk 124,65041,Blk 231,65049,Blk 126A,65059,St. Anne's Ch,65061,Blk 298A,65069,Blk 190C,65071,Opp Blk 103A,65079,Blk 102C,65081,Opp Blk 199C,65089,Opp Blk 296,65091,BLK 301A,65099,BLK 604A,65101,Aft Punggol Dr,65109,Bef Punggol Dr,65111,Bef Punggol 17th Ave,65119,Opp Punggol 17th Ave,65121,Opp Track 22,65129,Aft Track 22,65139,Punggol Rd End
+Punggol Way,65141,Soo Teck Stn,65149,Soo Teck Stn,65431,Twin Waterfalls,65439,Aft TPE,65886,Express
+Punggol Field,65151,Blk 196A,65159,Blk 101C,65161,Blk 173B,65169,Blk 108,65171,Opp Blk 126A,65179,Blk 126A,65201,Opp Blk 201A,65209,Aft Punggol Rd,65331,Opp Blk 268D,65339,Blk 268C,65341,Opp Blk 272C,65349,Blk 272C
+Punggol East,65181,Atf Punggol Ctrl,65189,Bef Punggol Ctrl,65231,Blk 166A,65239,Opp Blk 166A,65291,Bef Punggol Field,65299,Aft Punggol Field,65521,Waterwoods,65529,Aft Punggol Field
+TPE,65191,Bef Punggol Rd,65199,Aft Punggol Rd,65885,Express,68995,Express,68996,Express,73051,Near Lor Halus,73052,TPE 11km Towards Changi,73885,Express,73886,Express,73996,Express,73997,TPE 11 Km Towards SLE,98995,Express,TPE,Express
+Punggol Ctrl,65221,Opp Blk 293,65229,Blk 298,65251,Punggol Stn,65259,Punggol Stn,65261,Blk 649,65269,Blk 162B,65271,Opp Blk 188,65279,Bet Blks 187/188,65281,Punggol Sec Sch,65289,Edgefield Pr Sch,65401,Opp Blk 264A,65409,Bef Blk 264
+Edgefield Plains,65241,Blk 196C,65249,Blk 178,65381,Punggol Sec Sch,65389,Opp Punggol Sec Sch,65391,Blk 672A,65399,Blk 670A,65411,Horizon Pr Sch,65419,Opp Horizon Pr Sch,65429,Greendale Pr Sch
+Punggol Dr,65301,Blk 612A,65309,Opp Blk 612A,65311,Oasis Stn,65319,Oasis Stn,65321,Kadaloor Stn,65329,Kadaloor Stn
+Edgedale Plains,65371,Blk 682A,65379,Blk 661A
+Sumang Walk,65441,Opp Blk 315B,65449,Blk 315B,65451,Blk 322 CP,65459,Opp Blk 322 CP,65491,Opp Blk 259 CP,65499,Blk 259 CP
+Sumang Link,65461,Blk 312 CP,65469,Blk 310B
+Sentul Cres,65481,Bef Punggol Dr,65489,Aft Punggol Dr
+Sengkang West Way,65775,Express,65776,Express,67551,Aft Fernvale Link,67559,Bef Fernvale Link,67561,Opp Blk 432A,67569,Blk 432A,67571,Aft Lor Tanggam,67579,Bef Jln Kayu
+Anchorvale Rd,65801,Blk 309D,65809,Anchor Green Pr Sch,67371,Blk 313 CP,67379,Opp Blk 313 CP
+Lor Chuan,66011,Aft Braddell Rd,66019,Bef Braddell Rd,66021,New Tech Pk,66029,St. Gabriel's Pr Sch,66031,Cardiff Ct,66039,Opp Cardiff Ct,66111,Chuan View,66119,Summer Pl,66121,Chuan Terr,66129,Aft Chuan Gdn
+S'goon Gdn Way,66131,Aft Trinity Meth Ch,66139,Opp Trinity Meth Ch,66141,Bef Yio Chu Kang Rd,66149,Aft Yio Chu Kang Rd,66271,Serangoon Gdn Circus,E6600,Non Stop
+Chartwell Dr,66151,Opp Penshurst Pl,66161,Opp Crowhurst Dr,66171,Bef Cooling Cl
+Burghley Dr,66181,Aft Chartwell Rd,66191,Serangoon Gdn Sch
+Berwick Dr,66201,Opp Brockhampton Dr,66211,Opp Bloxhome Dr,66291,Opp Serangoon Gdn Circus
+Tavistock Ave,66221,Opp Portchester Ave,66231,Bef Huddington Ave
+Hemsley Ave,66241,Hemsley Ave
+Kensington Pk Rd,66251,Opp Kingswear Ave,66261,Opp Portchester Ave
+S'goon Nth Ave 1,66301,Blk 152,66309,Blk 112,66311,Blk 141A,66319,Bet Blks 142/148,66321,Blk 128,66329,Blk 126
+S'goon Ave 2,66361,Blk 319,66369,Blk 238,66381,Blk 334,66389,Bef Serangoon Int
+S'goon Ave 3,66391,Nanyang JC,66399,Lor Chuan Stn,66401,Golden Hts,66409,Melrose,66411,Blk 326,66419,Blk 330
+S'goon Nth Ave 4,66421,Blk 537,66429,Blk 530,66431,Opp Blk 506A,66439,Blk 504A CP
+S'goon Nth Ave 5,66509,Blk 546,66521,Ban Teck Han Bldg,66529,Blk 538,66531,Opp Blk 531,66539,Blk 531,66599,KLA Tencor
+S'goon Nth Ave 6,66511,Yio Chu Kang Amenity Ctr,66519,Opp Seagate
+Buangkok Link,66541,Blk 980C,66549,Opp Blk 980C,66551,Blk 984
+Buangkok Cres,66559,Blk 985A
+Sengkang Sq,67009,Sengkang Int
+Sengkang West Rd,67081,After Yio Chu Kang Rd,67089,Before Fernvale Lane
+Sengkang East Way,67101,Blk 250A,67109,Blk 235,67111,St. Anne's Wood,67119,Blk 128,67121,Blk 142A,67129,Blk 137,67381,Opp Blk 317B,67389,Blk 317B,67391,Opp Blk 325 CP,67399,Blk 325 CP,67401,Sengkang Stn,67409,Sengkang Stn,67531,Blk 158C,67539,Blk 122C,67541,Hockey Stadium,67549,Opp Hockey Stadium
+Rivervale Dr,67131,Blk 122F,67139,Opp Blk 121,67141,Blk 119D,67151,Blk 117A,67159,Blk 112,67221,Blk 153,67229,Blk 146A,67231,Rivervale Pr Sch,67239,Opp Rivervale Pr Sch
+Sengkang East Ave,67161,Opp Blk 101,67169,Blk 101,67211,Blk 208 CP,67219,Blk 267 CP,67261,Blk 203B,67269,Opp Blk 203A,67291,Blk 303B,67299,Opp Blk 303B,67301,Blk 305D,67309,Opp Blk 305 CP,67321,Blk 311A,67329,Opp Blk 310B,67331,Blk 200B,67339,Opp Blk 200B
+Compassvale Dr,67171,Blk 225A,67179,Opp Blk 225A,67341,Opp Blk 204 CP,67349,Blk 204 CP
+Compassvale Rd,67181,Blk 240,67189,Opp Blk 241,67191,Blk 223D,67199,Opp Blk 223D,67201,Blk 206A,67209,Blk 203,67241,Blk 248A,67249,Blk 259C
+Compassvale St,67251,Blk 253,67259,Blk 297A,67431,Opp Blk 291A,67439,Blk 291A,67631,Aft Anchorvale Crescent,67639,Bef Anchorvale Crescent,E6700,Non Stop
+Sengkang East Rd,67271,Blk 201 CP,67279,Blk 301D,67411,Blk 261,67419,Opp Blk 261,67441,Opp Blk 323B,67449,Blk 323B,67451,Bef Buangkok Dr,67459,Aft Buangkok Dr,67461,Aft Sengkang East Ave,67469,Bef Sengkang East Ave,67591,Blk 268B,67599,Opp Blk 293D
+Fernvale Lane,67281,Blk 403A,67289,Opp Blk 405C,67651,Bef Sengkang West Rd,67659,Aft Sengkang West Rd
+Anchorvale St,67311,Blk 330,67319,Blk 336B,67421,Opp Cheng Lim LRT,67429,Cheng Lim LRT
+Anchorvale Dr,67351,Blk 321 CP,67359,Nan Chiau High Sch,67361,Blk 313B,67369,Blk 306 CP
+Sengkang West Ave,67471,Aft Fernvale Link,67479,Bef Fernvale Link,67481,Opp Pei Hwa Sec Sch,67489,Pei Hwa Sec Sch,67491,Aft Fernvale Lane,67499,Bef Fernvale Lane,68011,Before Jalan Kayu,68019,After Jalan Kayu
+Sengkang East Dr,67501,Blk 117C,67509,Opp Blk 119A,67511,Blk 121E,67519,Opp Blk 121E,67521,Blk 160,67529,Opp Blk 157A
+Sengkang Ctrl,67601,Buangkok Stn,67609,Buangkok Stn,67611,Blk 204C,67619,Blk 201C
+Buangkok Dr,67621,Opp Blk 558,67629,Blk 557,67711,Bef Sengkang Fire Stn,67719,Opp Sengkang Fire Stn,67721,Aft Punggol Rd,67729,Bef Punggol Rd,67731,Bef Sengkang East Dr,67739,Aft Sengkang East Dr,E6400,Non Stop
+Rivervale Cres,67661,Opp Blk 178A,67671,Blk 156A CP
+Jln Kayu,68021,Bef Seletar West F'way 4,68029,Aft Seletar West F'way 2,68031,Jln Kayu Shophouse,68039,Aft Abundant Grace Ch,68049,Opp Jln Tari Lilin,68051,Bef TPE,68059,Aft TPE,68111,Bef Seletar Camp G,68119,Aft Seletar Camp G
+Piccadilly,68061,Sing-China Bldg,68069,Opp Sing-China Bldg,68071,Bef East Camp G,68179,Aft Yishun Ave 8
+Seletar Aerospace Dr,68081,Bef Rolls Royce Pte Ltd,68089,Aft Rolls Royce Pte Ltd,68091,Aft Baker St,68099,Bef Baker St,68101,Rolls Royce Pte Ltd,68109,Opp Rolls Royce Pte Ltd,68121,Bef West Camp Rd,68129,Aft West Camp Rd
+West Camp Rd,68131,Opp Youth Flying Club,68139,Youth Flying Club,68141,Opp Seletar Airport,68149,Seletar Airport,68151,BEF SHELL AVIATION,68159,AFT SHELL AVIATION,68161,Seletar W Camp G 3,68169,Opp Seletar W Camp G 3
+Aljunied Rd,70011,Opp Blk 125,70019,Blk 125,70021,Opp Canossa Convent Pr,70029,Aft Canossa Convent Pr,70031,Opp Aljunied Pk,70039,Aljunied Pk,81081,Opp Aljunied Stn,81089,Aljunied Stn,81091,Blk 60,81099,Blk 102,81231,Opp SCN Ctr
+Ubi Ave 3,70071,Cycle & Carriage,70079,Aft Regent Motors,70081,Opp HDB CP,70089,HDB CP,70091,Opp Traffic Police,70099,Traffic Police
+Merpati Rd,70151,Aft Jln Anggerek,70161,Blk 14,E7001,Non Stop
+Circuit Rd,70171,Blk 77,70181,Blk 36,70191,MacPherson Sec Sch,70201,ITE MacPherson Campus 1,70221,Blk 79 FC,70381,Kong Hwa Sch
+Pipit Rd,70211,Blk 90
+Mattar Rd,70231,Aft Merpati Rd,70241,MacPherson Pr Sch
+Paya Lebar Rd,70251,MacPherson Stn,70259,Opp MacPherson Stn,70261,Opp Orion @ Paya Lebar,70269,Citipoint Ind Cplx,70271,Le Crescendo,70279,Opp Trinity @ Paya Lebar,81101,CISCO Ctr,81109,Opp CISCO Ctr,81111,Paya Lebar Stn,81119,Opp Paya Lebar Stn,81129,Bef Geylang Fire Stn
+Kallang Way,70311,Aft Genting Lane,70319,Aft Kallang Way 4,70321,Aft Kallang Way 1,70329,Aft Kallang Way 2,70331,JTC Blk,70339,Opp JTC Blk
+Tannery Rd,70341,Tannery Blk,70349,Bef Lor Bakar Batu
+Lor Bakar Batu,70359,Aft Kallang Sector
+Genting Lane,70361,Kenwood
+Circuit Link,70371,MacPherson Stn,70379,Opp MacPherson Stn,E7000,Non Stop
+Lor Bengkok,70391,Opp MacPherson Sec Sch,E7039,Non Stop
+Airport Rd,71011,Aft Paya Lebar Rd,71021,Opp Comfort Test Ctr,71029,Comfort Test Ctr,71031,Opp Gordon Warehse Bldg,71039,KB Warehse Cplx,71041,Opp Air Force Museum,71049,Air Force Museum,71171,Blk 1022,71179,Opp Blk 1022,71181,Opp Paya Lebar Air Base,71189,Paya Lebar Air Base,71191,Aft Defu Lane 12,73019,Bef RSAF Roundabout,73041,ST Aero,73049,Air Force Sch
+Eunos Link,71071,Opp Comfort Driving Ctr,71079,Comfort Driving Ctr,71081,Eunos Technolink,71089,Opp Eunos Technolink,71091,Blk 637,71099,Blk 311
+Ubi Ave 1,71101,Blk 318,71109,Maha Bodhi Sch,71111,Blk 343,71119,Opp Blk 343,71201,Paya Ubi Ind Pk,71209,Opp Paya Ubi Ind Pk,71211,Ubi 55,71219,Ubi Techpark
+Ubi Ave 2,71131,Automobile Megamart,71139,Blk 302,71141,Blk 3023,71149,Blk 3024,71151,Blk 3021,71159,Blk 3026,71161,Blk 3019,71169,Aztech Bldg
+Ubi Rd 1,71221,Meiban Ind Bldg,71229,Opp Meiban Ind Bldg
+Jln Eunos,72011,Blk 322,72019,Eunos Mans,83101,Eunos Stn,83109,Opp Eunos Stn,83111,Blk 17,83119,Opp Blk 16
+Bedok Reservoir Rd,72021,Blk 646,72029,Opp Blk 646,72061,Blk 122,72069,Blk 121,72071,Blk 133,72079,Blk 609,75061,Opp Bedok Reform Trg Ctr,75069,Bedok Reform Trg Ctr,75341,Opp The Clearwater Condo,75349,The Clearwater Condo,84461,Opp Blk 701,84469,Blk 703,84471,Blk 745,84479,Blk 713,84481,Opp Kaki Bt Ctr,84489,Aft Kaki Bt Ctr,84491,Blk 629,84499,Blk 140,84501,Christ Ch,84511,Blk 608,84601,Opp Waterfront Key,84609,Waterfront Key,84611,Opp Waterfront Isle,84619,Waterfront Isle,84621,Opp Blk 716,84629,Blk 716,84631,Opp Waterfront Waves,84639,Aft Waterfront Waves
+Kaki Bt Ave 1,72031,Bef Jln Damai,72039,Aft Jln Damai,72041,Blk 660A CP,72049,Opposite Blk 660A CP,72051,Kaki Bt Ind Est,72059,Opp Kaki Bt Ind Est,84701,Blk 151,84709,Opp Blk 150
+Jln Damai,72081,Opp Blk 668,72089,Blk 671A CP
+Tampines Link,74041,Opp Golden Pagoda Tp,74049,Golden Pagoda Tp
+Bedok Nth Rd Extn,74051,2A,74059,1A,74061,2B,74069,1B,74071,2C,74079,1C,74081,2D,74089,1D
+Tampines Ctrl 1,75008,Tampines Int,75009,Tampines Int
+Tampines Ave 8,75031,Opp Springfield Sec Sch,75039,Springfield Sec Sch,75151,Opp Blk 871A,75159,Blk 874
+Tampines Ave 1,75051,Opp SAFRA Tampines,75059,SAFRA Tampines,75221,Opp Temasek Poly East G,75229,Temasek Poly East G,75231,Opp Temasek Poly,75239,Temasek Poly,75241,Opp Temasek Poly West G,75249,Temasek Poly West G,75251,Opp Tropica Condo,75259,Tropica Condo
+Tampines Ave 3,75071,Opp Blk 819,75079,Blk 819,75081,Blk 831,75089,Blk 827,75101,Blk 880,75109,Blk 888
+Tampines St 81,75099,Blk 897,75219,Blk 889
+Tampines St 84,75111,Blk 874A
+Tampines Ave 5,75121,Opp Darul Ghufran Mque,75129,Darul Ghufran Mque,75131,Bet Blks 701/702,75139,Blk 863,75141,Blk 730,75149,Blk 867A,76051,Tampines Stadium,76059,Opp Tampines Stadium,76061,Blk 938,76069,Blk 147
+Tampines St 83,75161,Blk 855,75169,Opp Blk 853,75201,Blk 835,75209,Blk 882A
+Tampines Ave 7,75171,Aft Tampines Ave 9,75179,Bef Tampines Ave 9,76191,Opp Tampines Reg Lib,76199,Bef Tampines Reg Lib,76201,Blk 423,76209,Blk 233,76211,Blk 449,76219,Blk 230E,76221,Opp Blk 230,76229,Blk 229,76231,Tampines JC,76239,Opp Tampines JC,76241,Blk 497D,76249,Blk 370,E7603,Non Stop
+Tampines Ave 12,75181,Aft Tampines Ave 9,75189,Aft TPE,E7507,Non Stop
+Tampines Ave 9,75191,Aft Tampines Ave 12,75199,Aft Tampines Ave 7,75271,Blk 721,75279,Opp Blk 721,75281,Blk 742A,75289,Opp Blks 741/742,76311,Opp Tampines JC,76319,Tampines JC,76341,Blk 464,76349,Dunman Sec Sch,76351,Blk 484,76359,Blk 493B,76361,Blk 430,76369,Blk 496F,76541,Citylife@Tampines,76549,Opp Citylife@Tampines,E7604,Non Stop
+Tampines Ave 6,75261,Bet Blks 710/713,75269,Opp Blks 710/713
+Tampines Ave 10,75291,Aft Tampines Ave 9,75299,Bef Tampines Ave 9,75301,Decs2,75309,Decs2b,75311,Tampines Dormitory,75319,Opp Tampines Dormitory,75351,Bef TPE,75359,Aft TPE,75361,Bef Tampines Ind Ave 5,75369,Opp HNS Micro Siltronic,75371,Aft Tampines Ave 5,75379,Bef Tampines Ave 5
+Tampines St 71,75329,Poi Ching Pr Sch,75339,Blk 734
+Tampines Ave 2,76071,Blk 141,76079,Blk 101,76081,Opp The Holy Trinity Ch,76089,The Holy Trinity Ch,76091,Blk 206,76099,Blk 285,76101,Tampines East CC,76109,Blk 302
+Tampines Ave 4,76111,Blk 945,76119,Opp Blk 945,76121,Opp St. Hilda's Sec Sch,76129,St. Hilda's Sec Sch,76131,UOB Tampines Ctr,76139,Opp Century Sq,76141,Tampines Stn/Int,76149,Opp Tampines Stn/Int,76281,East View Pr Sch,76289,Opp East View Pr Sch
+Tampines St 21,76151,Blk 237,76159,Opp Blk 237,76161,Opp Blk 248,76169,Blk 248,76171,Blk 266,76179,Opp Blk 266,76401,Blk 230B,76409,Blk 259
+Tampines St 23,76181,Blk 216,76189,Opp Blk 216
+Tampines St 45,76251,Blk 487B,76259,Opp Blk 487B,76261,Blk 489B,76269,Opp Blk 489A,76271,Dunman Sec Sch,76279,Blk 491C
+Tampines St 22,76291,Angsana Pr Sch,76301,Blk 283
+Tampines St 11,76329,Blk 125,76339,Blk 121
+Tampines St 42,76371,Blk 459
+Tampines St 43,76389,Blk 442
+Tampines St 41,76391,Blk 418,76399,Blk 417
+Tampines St 32,76411,Ngee Ann Sec Sch,76419,Blk 307A,76421,Opp Blk 331,76429,Blk 331
+Tampines St 33,76439,Blk 351,76449,Blk 343,76459,Blk 323
+Tampines St 34,76461,Eden Condo,76469,East Spring Sec Sch
+Pasir Ris Dr 3,77008,Pasir Ris Int,77009,Pasir Ris Int,77191,Blk 500A,77199,Opp Blk 500A,77201,Aft Blk 601,77209,Opp Blk 601,77211,Blk 626,77219,Opp Blk 626,77251,Blk 713,77259,Opp Blk 713,78101,Opp Downtown East,78109,Downtown East,78111,Blk 479,78119,Opp Blk 479,78121,Bet Blks 232/233,78129,Opp Blk 233,78131,Pasir Ris Pr Sch,78139,Opp Pasir Ris Pr Sch,78141,Greenview Sec Sch,78149,Opp Greenview Sec Sch,98101,Loyang Pt,98109,Opp Loyang Pt,E7702,Non Stop
+Pasir Ris Dr 1,77011,Opp Blk 515,77019,Blk 515,77021,Opp Blk 571,77029,Blk 571,77031,Aft Pasir Ris Ctrl,77039,Bef Pasir Ris Ctrl,77041,Blk 541,77049,Pasir Ris Town Pk,77051,Blk 115,77059,Blk 425,77231,Meridian JC,77239,Blk 643,77241,Opp Blk 640,77249,Blk 640,77281,Blk 740,77289,Blk 738,78049,Blk 612,78051,Blk 197,78059,Blk 210,78061,Blk 104,78069,Blk 442,98091,Blk 156,98099,Blk 269A
+Elias Rd,77061,Ris Grandeur,77069,Opp Ris Grandeur,77071,Blk 633,77079,Elias Mall,77081,Aft Pasir Ris Dr 3,77089,Bef Pasir Ris Dr 3,77091,Bef Pasir Ris Way,77099,Bef Pasir Ris Ave,77101,Bef Pasir Ris Rd,77109,Aft Pasir Ris Rd,77181,Blk 638,77189,Blk 613
+Pasir Ris Rd,77111,Bef Pasir Ris Way,77119,Aft Pasir Ris Way,77129,Opp Unit 104
+Pasir Ris St 52,77131,Blk 502,77139,Blk 582,77141,Blk 519
+Pasir Ris Dr 8,77151,Aft TPE,77159,Bef TPE,77371,Opp Blk 586,77379,Blk 586,E7700,Non Stop
+Pasir Ris Dr 10,77161,Blk 741,77169,Meridian JC,77221,Blk 651,E7701,Non Stop
+Pasir Ris Ctrl,77171,Opp Pasir Ris Town Pk,77179,Pasir Ris Town Pk,77321,Aft Pasir Ris St 53,77329,Bef Pasir Ris St 53
+Pasir Ris Dr 12,77261,Blk 717,77269,Opp Blk 717,77271,Aft Pasir Ris St 72,77279,Aft Pasir Ris Dr 1,77331,Blk 747A,77339,Aft TPE
+Pasir Ris St 71,77291,Blk 753,77301,Blk 778,77309,Opp Blk 778,77311,Bet Blks 771/772,77319,Opp Blks 771/772
+Pasir Ris St 51,77341,Opp Blk 569,77349,Blk 569,77351,Blk 562,77359,Blk 564,77361,Blk 555,77369,Opp Blk 555
+Pasir Ris Dr 6,78071,Blk 446,78079,Blk 429,78081,Blk 467,78089,Blk 405
+Pasir Ris Cl,78091,Opp Downtown East
+Jln Loyang Besar,78099,Aft Loyang Gdns,78251,Lighthouse,78259,Opp Lighthouse,78261,Unit 169,78269,Opp Coastal View,78271,Casa Pasir Ris,78279,Opp Loyang Townhouse
+Pasir Ris Dr 4,78151,Blk 230,78159,Opp Blk 230,78161,Blk 216,78169,Opp Blk 216,78221,Blk 231A CP,78229,Blk 485
+Pasir Ris St 11,78171,Blk 108,78179,Opp Blk 108,78181,Bef Blk 187,78189,Opp Opp Blk 187,78191,Aft Blk 182,78199,Opp White Sands Pri Sch
+Pasir Ris St 21,78201,Opp Blk 242,78209,Blk 242,78211,Blk 204,78219,Opp Blk 204
+Pasir Ris St 41,78231,Opp Blk 482,78241,Bet Blks 453/454
+Lor 1 Geylang,80009,Lor 1 Geylang Ter,80101,Opp Blk 2C,80109,Bet Blks 2B/2C,E8008,Non Stop
+Sims Ave,80031,Kallang Stn,80051,Aft Lor 1 Geylang,80071,Yi Xiu Fty Bldg,80091,Bef Lor 23 Geylang,81011,Aljunied Stn,81031,Blk 134,81051,Sims Ville,82011,Aft Tg Katong Cplx,82032,Blk 416,82033,Blk 414,82061,Eunos Stn,E8001,Non Stop
+Geylang Rd,80039,Opp Lor 1 Geylang Ter,80049,Aft Sims Way,80069,Opp Mohd Salleh Mque,80089,Bef Lor 18 Geylang,81029,Aft Lor 28 Geylang,81049,Aft Lor 34 Geylang,81069,Opp Lor 39 Geylang,82029,Blk 14 Mkt/FC,82109,City Plaza,E8002,Non Stop
+Sims Way,80111,Bef Geylang Rd,80119,Aft Geylang Rd,E8003,Non Stop
+Mountbatten Rd,80131,Aft Nicoll Highway,80139,Aft Lor 4 Geylang,80141,Opp Mountbatten Voc Sch,80149,Mountbatten Voc Sch,80271,Opp Blk 2,80279,Blk 2,91041,EtonHouse Pre-Sch,91049,Bef Fort Rd,91051,Opp Santa Fe Mans,91059,Katong Pk Twrs,91061,Bet Hse No. 767/767A,91069,Bef Walton Rd,91071,Bef Tg Katong Rd,91079,Aft Tg Katong Rd,91091,Bef Kg Kayu Rd,91099,Bef Wilkinson Rd,92091,Opp One Amber,92099,One Amber,92101,Katong Shop Ctr,92109,Opp Katong Shop Ctr,E9209,Non Stop
+Stadium Walk,80171,CP F,80191,Opp S'pore Indoor Stadium
+Stadium Cres,80179,Opp CP F,80199,S'pore Indoor Stadium
+Stadium Blvd,80181,Kallang Squash Ctr,80189,Opp Kallang Squash Ctr,E8004,Non Stop,LEIS1,Opp Leisure Pk,LEIS9,Leisure Pk,TENN9,Opp Kallang Tennis Ctr
+Stadium Rd,80201,Aft Stadium Rd,80209,Aft Stadium Dr,CPARK,CP B
+Sims Dr,80229,Blk 45,80231,Blk 59,80239,Opp Blk 59
+Sims Pl,80249,Blk 49 Mkt/FC,80289,Sims Pl Ter
+Guillemard Rd,80251,Assn Bldg,80259,Aft Chen Li Presby Ch,81131,Opp Grandlink Sq,81139,Grandlink Sq,81141,Versailles Condo,81149,The Sunny Spring Condo,81151,Kong Hwa Sch,81159,Opp Kong Hwa Sch,81161,blk 56,81169,Opp Blk 56,82231,Opp City Plaza
+Lor 17 Geylang,80269,Bef Sims Ave
+Upp Boon Keng Rd,80301,Bef Blk 19,80309,Aft Geylang West CC,80311,Blk 3B,80319,Geylang West CC
+Old Airport Rd,81171,Blk 39,81179,Blk 22,81181,Blk 99,81189,Blk 62
+Dunman Rd,81191,AFT OLD AIRPORT RD,81199,BEF OLD AIRPORT RD,82121,Dunman View,82129,Tg Katong Sec Sch,82131,Opp Maranatha Hall,82139,Maranatha Hall
+Geylang East Ctrl,81201,Opp Geylang Meth Sec Sch,81209,Geylang Meth Pr Sch,81211,Geylang Polyclinic,81219,Opp Geylang Polyclinic,81221,Folec Tech Ctr,81229,Opp Folec Tech Ctr
+Cassia Link,81241,Express,81249,Express
+Guillemard Camp Rd,81251,Express,81259,Express
+Eunos Rd 2,82009,Eunos Int
+Changi Rd,82049,Joo Chiat Cplx,82069,Aft GE Life Ctr,83029,Bef Jamiyah Home,83049,Bef Lor 110 Changi,83059,Mjd Kassim,83079,Bef Siglap Plain,83099,Aft Perpetual Succour Ch
+Tg Katong Rd Sth,82051,Tg Katong Sth P/G,82059,One Amber
+Tg Katong Rd,82071,Opp Tg Katong Girls' Sch,82079,Tg Katong Girls' Sch,82081,Aft Dunman Rd,82089,Shell Kiosk,82091,Aft Queen Of Peace Ch,82099,CDAC Bldg,82111,Opp Tg Katong Cplx,82119,Tg Katong Cplx,92161,Aft Katong PO,92169,Bef Katong PO
+Tembeling Rd,82141,Aft Koon Seng Rd,82151,Bef Joo Chiat Pl
+Joo Chiat Rd,82149,Bef Koon Seng Rd,92171,Marshall Lane,92179,Aft Duku Rd,92181,112 Katong,92189,Opp 112 Katong
+Joo Chiat Pl,82159,Aft Tembeling Rd,82171,Bef Mangis Rd,82179,Joo Chiat Ct,82181,Flora East,83151,East Shore Hosp,83159,Opp East Shore Hosp,83169,Bef Still Rd
+Jln Turi,82221,Blk 3A
+Jln Ubi,82229,Kg Ubi CC
+Sims Ave East,83011,Casa Sarina,83031,Opp Hong San Si Tp,83062,Kembangan Stn,83063,The Buddhist Union,83081,Opp Perpetual Succour Ch
+Telok Kurau Rd,83121,Bef Lor K Telok Kurau,83129,Aft Ji Xiang Ct,83131,Aft Lor H Telok Kurau,83139,Aft Joo Chiat Pl,83141,Telok Kurau Sec Sch,83149,Telok Kurau Ct,92201,Tandeville,92209,Opp Tandeville,92301,Bef St. Patrick's Rd,92309,East Coast Apts
+Frankel Ave,83171,Bef Roseburn Ave,83179,Aft Siglap Dr,83181,Aft Bethesda Frankel Ch,83189,Bef Bethesda Frankel Ch,83191,Bef Frankel Dr,83199,Aft Frankel Dr,83201,Bef Frankel Terr,83209,Aft Frankel Terr,93101,Aft Coldstream Ave,93109,Bef Frankel Pl
+Siglap Dr,83219,Bef Frankel Ave,83229,Bef Carlton Ave
+Siglap Rd,83231,Bef Siglap Dr,83239,Opp Cheviot Hill,83249,Flamingo Valley,93111,Bef Elite Pk Ave,93119,Aft Elite Pk Ave,93121,Opp Sekolah Indonesia,93129,Bef Sekolah Indonesia,93199,Opp Mandarin Gdns
+Fidelio St,83251,Bef Jln Khairuddin,83261,Opera Est Pr Sch,83269,Opp Opera Est Pr Sch,83271,Aft Swan Lake Ave,83279,Aft Carmen St,83281,Bef Tosca St
+Still Rd,83291,Flora East,83299,Aft Lor G Telok Kurau,83301,Aft East Coast Rd,83309,Aft Still Lane,83311,Aft Lor Nangka,83319,Aft Lor J Telok Kurau
+Jln Kembangan,83321,Kembangan Stn,83329,Opp Kembangan Stn
+Lengkong Tiga,83331,Kg Kembangan CC,83341,Blk 102
+Lengkong Empat,83351,Grosvenor View,83361,Hua Yu Mans
+Jln Selamat,83371,Aft Jln Paras
+Taman Kembangan,83381,Bef Jln Kembangan
+Bedok Nth Dr,84008,Bedok Temp Int,84009,Bedok Int,E8400,Non Stop
+New Upp Changi Rd,84011,Chai Chee Ind Pk,84019,Opp Chai Chee Ind Pk,84021,Blk 32,84029,Opp Blk 32,84031,Bedok Stn,84039,Bedok Stn,84041,Blk 221A,84049,Blk 27,84051,Bedok Sports Cplx,84059,Blk 65,84061,The Tanamera Condo,84069,Blk 55,85091,Tanah Merah Stn,85099,Tanah Merah Stn
+Bedok Sth Rd,84071,Blk 71,84079,Blk 45,84081,Opp Blk 40,84089,Blk 40,84111,Temasek JC,84119,Opp Temasek JC,84121,Aft Bedok Sth Ave 1,84129,Fujitec S'pore Ltd,84131,Opp Panasonic,84139,Panasonic,84141,Opp Lion Home For Elders,84149,Lion Home For Elders,84681,Blk 163,84691,Blk 171
+Bedok Nth Int,84091,Blk 204
+Bedok Sth Ave 2,84099,Bedok Sth Pr Sch
+Bedok Sth Ave 3,84101,Opp Blk 49,84109,Blk 50,84661,Blk 172,84669,Blk 73,84671,Aft Blk 156,84679,Opp Blk 156
+Bedok Sth Ave 1,84151,Casafina,84159,Hitachi Consumer Products,93131,Opp Eastern Lagoon II,93139,Eastern Lagoon II,E8405,Non Stop
+Bedok Nth Ave 3,84191,Blk 220 CP,84199,Opp Blk 220 CP,84201,Opp Blk 761,84209,Opp Baywater,84211,Blk 403,84219,Bet Blks 139/140,84521,Blk 506,84529,Blk 109
+Bedok Nth Rd,84221,Blk 109,84229,Blk 111,84231,Blk 85,84239,Opp Blk 85,84241,Blk 81,84249,Blk 124,84281,Blk 180,84289,Opp Blk 180,84311,Blk 521,84319,Blk 428,84321,Blk 516,84329,Blk 414,84341,Opp Fengshan Pr Sch,84349,Fengshan Pr Sch,84361,Blk 547,84369,Blk 45,84451,Opp Blks 705/706,84459,Bet Blks 705/706,E8403,Bedok Nth Rd
+Bedok Nth Ave 4,84251,Blk 99,84259,Blk 88,84261,St. Anthony's Cano Sch,84269,Blk 95,84271,Opp Goldbell Svc Ctr,84279,Goldbell Svc Ctr,84299,Bedok Nth Depot,84431,Blk 3011,84439,Opp Blk 3011,84591,SBST Bedok Bus Pk,84599,Opp SBST Bedok Bus Pk
+Bedok Nth Ave 1,84301,Opp Kg Chai Chee CC,84309,Kg Chai Chee CC,84371,Blk 546,84379,Opp Blk 546,E8401,Non Stop
+Bedok Nth Ave 2,84331,Opp Blk 416,84339,Blk 416,84421,Blk 510,84429,Blk 515
+Bedok Nth St 1,84351,Bedok Ctrl PO,84359,Opp Bedok Ctrl PO
+Bedok Nth St 3,84381,Blk 544,84391,Blk 534,84401,Opp Blk 550,84409,Blk 550,84411,Blk 526,84419,Blk 512,84449,Blk 509
+Chai Chee St,84541,Blk 42,84549,Opp Blk 42,84551,BLK 51,84559,Opp Blks 50/51,84561,BLK 53,84569,Opp Blk 53
+Chai Chee Dr,84571,OPP BLK 55,84579,Aft Chai Chee St,84581,OPP BEDOK STN NPC,84589,Bef New Upp Changi Rd
+Chai Chee Rd,84641,Blk 24,84649,Opp Blk 24
+Bedok Rd,85019,Eastwood Ctr,85021,Country Pk,85029,Aft Bedok Meth Ch,85031,Excelsior Gdns,85039,Opp Excelsior Gdns,85041,Man Fatt Lam Tp,85049,Opp Man Fatt Lam Tp,85051,Aft Jln Chempaka Kuning,85059,Bef Jln Chempaka Kuning,85061,Opp Bedok Mkt Pl,85069,Bedok Mkt Pl
+Upp Changi Rd,85071,Bef Changi Fire Stn,85079,Flextronic,85081,Bef Jln Pari Burong,85089,Bef Jln Chempaka Kuning,96071,Aft Simei Ave,96079,ITE Reg Campus,96081,Grace Independent Ch,96089,Opp Grace Independent Ch,E8501,Non Stop
+Upp Changi Rd East,85101,Aft Bedok Rd,85109,Bef Bedok Rd,96011,Bef Simei Ave,96019,Aft Simei Ave,96021,Opp Expo Halls 1/2/3,96029,Expo Halls 1/2/3,96031,Opp Expo Halls 4/5/6,96039,Expo Halls 4/5/6,96041,Bef Tropicana Condo,96049,Opp Tropicana Condo,96051,Opp Changi Ct,96059,Changi Ct,96061,Opp Mera Terr P/G,96069,Mera Terr P/G
+Tg Rhu Rd,90011,Bef Tg Rhu View,90019,Pk Shore Condo,90021,Pebble Bay,90029,Opp Pebble Bay,90031,Tg Ria Condo,90039,Opp Tg Ria Condo,90041,Express,90049,Express,90051,Opp S'pore Swim Club,90059,S'pore Swim Club,90061,Dunman High Sch,90069,Opp Dunman High Sch
+Rhu Cross,90079,Opp Costa Rhu Condo
+MCE,90965,Express,90966,Express,MCE,Express
+Sheares Ave,90975,Express
+Fort Rd,91081,Fort Gdns,91089,Opp Fort Gdns
+East Coast Pk Svc Rd,91101,Tg Katong Flyover,91109,Opp Tg Katong Flyover,91111,CP B1,91119,CP E2,91129,Crocodilarium,92191,Opp CP C3,92199,Tennis Ctr,92251,Cp C1,92259,Singa Inn,92261,Opp Playground@ Big Splash,92289,Marine Cove,92291,Aft Marine Parade Flyover,92299,Opp Marine Parade Flyover,93151,Opp Cable Ski Pk,93159,Cable Ski Pk,93161,Opp Pond,93169,Bef CP D5,93171,Opp Island Resort S'pore,93179,Island Resort S'pore,93181,Opp CP C4,93189,Opp Victoria JC
+Meyer Rd,91121,Hse 189,91131,Peach Gdn,91141,The Sovereign,91151,Hawaii Twr,91161,The Seafront
+Marine Parade Rd,92041,Opp Parkway Parade,92049,Parkway Parade,92051,Opp Blk 72,92059,Bet Blks 72/74,92061,CHIJ Katong Convent (Pr),92069,Tao Nan Sch,92071,Opp Blk 57,92079,Blk 57,92081,St. Patrick's Sec Sch,92089,CHIJ Katong Convent,93011,Opp Neptune Ct,93019,Neptune Ct,93021,Opp Mandarin Gdns,93029,Mandarin Gdns,93031,Opp Laguna Pk,93039,Laguna Pk,93041,Hua Xin Ct,93049,Lagoon View,93201,Victoria Sch
+East Coast Rd,92111,Opp Roxy Sq,92119,Roxy Sq,92121,Opp The Holy Family Ch,92129,The Holy Family Ch,92131,Katong Omega Apt,92139,Opp Katong Omega Apt,92141,Ocean Apts,92149,St. Patrick's Green,92151,Christ Meth Ch,92159,St. Patrick's Sec Sch,93051,Aft Dunbar Walk,93059,Aft Jln Buloh Perindu,93061,Bef Siglap Rd,93069,Aft Siglap Rd,93079,Opp Springvale
+Marine Terr,92211,CHIJ Katong Convent (Sec),92219,Opp CHIJ Katong Convent,92221,Blk 19,92229,Blk 53
+Marine Cres,92231,Blk 34,92239,Blk 45
+Amber Rd,92241,Amber Gdn,92249,Opp Amber Gdn
+Still Rd Sth,92271,Bef Grand Hotel,92279,Aft Grand Hotel,E9200,Non Stop
+Upp East Coast Rd,93071,Crescendo Bldg,93081,Opp Chiang Ct,93089,Opp Goodwill Ct,93091,Opp Siglap Sth CC,93099,Siglap Sth CC,94009,Upp East Coast Ter,94011,Evergreen Gdn,94019,Opp Evergreen Ave,94021,Bef Sennett Rd,94029,East Coast Ville,94031,The Summit,94039,Opp The Summit,94041,Opp Fairview Ct,94049,Fairview Ct,94051,Opp Temasek Sec Sch,94059,Temasek Sec Sch,94061,Kew Green Condo,94069,Opp Kew Green Condo,94071,Opp Bedok Camp 2,94079,Bedok Camp 2,94089,Calvary Ably Of God Ch
+Siglap Link,93149,Siglap Link
+Airport Blvd,95011,Bef Changi Airport PTB3,95019,Aft Changi Airport PTB2,95151,Airport Police Stn,95159,Near SATS Flight Kitchen,E9500,Non Stop
+PTB1 Basement,95029,Changi Airport PTB1
+Airport Cargo Rd,95039,Airfreight Ter Bldg,95041,CIAS Cargo Ters,95049,SATS Cargo Ter
+Airline Rd,95051,3rd Cargo Agents,95061,SIA Hangar,95069,Opp SIA Hangar,95131,Police Pass Off,95139,Police Pass Off,95141,Aft Cargo Bldg D,95149,Bef Cargo Bldg D
+Nicoll Dr,95071,Changi Beach CP 4,95079,Opp Changi Beach CP 4,95081,Changi Beach CP 5,95089,Opp Changi Beach CP 5,95091,SAF Ferry Ter,95099,Opp SAF Ferry Ter,99161,Bef Changi Beach CP 3,99171,Changi Beach CP 2,C9500,Saf Ferry Ter,E9501,Non Stop
+PTB3 Basement,95109,Changi Airport PTB3
+PTB2 Basement,95129,Changi Airport PTB2
+Changi Coast Rd,95161,Bef Changi Ferry Rd,95169,Aft Changi Ferry Rd
+Alps Ave,95171,Prologis,95179,DHL,95181,Menlo Worldwide,95189,Expeditors,95191,Opp DB Schenker
+Upp Changi Link,96091,Aft Upp Changi Rd,96099,Aft Upp Changi Rd East
+Simei Ave,96101,Blk 3012,96109,Opp Blk 3012,96111,Bef Upp Changi Rd,96119,ITE College East,96281,Opp Changi General Hosp,96289,Changi General Hosp
+Simei Rd,96121,Metta Welfare Assn,96129,Melville Pk,96181,Blk 151,96189,Blk 166,96191,Blk 224,96199,Opp Blk 224,96201,Simei Green Condo,96209,Opp Simei Green Condo
+Simei St 1,96131,Blk 130,96139,Blk 148,96141,Blk 120,96149,Simei Stn,96151,Blk 106,96159,Blk 254
+Simei St 3,96161,Opp Simei Stn,96169,Simei Stn,96251,Bef Changi General Hosp,96259,Aft Changi General Hosp,96261,Blk 233,96269,Blk 146
+Simei St 4,96171,Bet Blks 227/228,96179,Modena Condo/Opp Blk 228,96291,Blk 223,96299,Simei Green Condo
+Tanah Merah Ferry Rd,96219,Tanah Merah Ferry Ter
+Xilin Ave,96221,Opp S'pore Expo,96229,S'pore Expo,96231,DB Schenker,96239,CEVA Freight,96241,Laguna Natl C. Club,96249,Builders Ctr,96271,Opp Global Logistics Ctr
+Changi Sth Ave 1,96311,Opp Yusen Logistics,96319,Yusen Logistics,97009,Changi Business Park Bus Terminal
+Changi Sth Ave 2,96321,DBS Asia Hub,96329,DHL,96331,Premier,96341,Aft Sunny Metal & Engrg,96381,Changi City Point,96389,Opp Changi City Point
+Changi Sth Ave 4,96351,Before Changi Sth St 1
+Changi Business Pk Ctrl 2,96361,Aft Akzonobel,96371,Standard Chartered Bank
+Changi Business Pk Ctrl 1,96401,Honeywell Bldg
+Upp Changi Rd Nth,97011,The Japanese Sch,97019,Opp Salvation Army,97031,Aft Jln Bena,97039,Bef Jln Bena,97041,Ballota Pk Condo,97049,Changi Prison,97051,Opp Changi Women's Prison,97059,Changi Women's Prison,97061,Changi Baptist Ch,97069,Lloyd Leas Work Rel Camp,97071,Selarang Camp,97079,Opp Selarang Camp,97201,Opp Changi Chapel Museum,97209,Changi Chapel Museum
+Loyang Way,97081,Selarang Pk Drug Reh.,97089,Opp Selarang Pk Drug Reh.,97091,Bef Loyang Ave,97099,Aft Loyang Ave,98121,Krislite Bldg,98129,JTC Corporation,98131,Opp Hitachi Chemical,98139,Hitachi Chemical,98141,GE Aircraft Engines,98149,Wacker Chemicals,98151,Opp Loyang Way 4,98161,Composite Tech,98171,Opp SIA Supplies Ctr,98181,Yang Yong Ann Pte Ltd
+Old Tampines Rd,97101,Bef Jln Mariam,97109,Aft Jln Mariam,97111,Bef Toh Cl,97119,Aft Toh Cl,98081,Aft Jln Batalong,98089,Bef Jln Batalong
+New Loyang Link,97121,Bef Old Tampines Rd,97129,Bef Loyang Ave
+Changi Nth St 1,97141,Opp VICOM,97149,Aft VICOM
+Changi Nth Cres,97151,Opp 3com Asia Pacific Rim,97159,VICOM Veh Insp Ctr,97161,Edwards Lifesciences,97169,Opp Edwards Lifesciences,97171,Opp SATS Catering,97179,SATS Catering,97181,Seamap,97189,SATS Maintenance Ctr 2
+Changi Nth Way,97301,Agility,97311,Zuellig Pharma,97331,Bef Changi Prison Complex
+Tanah Merah Besar Rd,97321,Aft Compass Green
+Loyang Ave,98011,Blk 149A,98019,Opp Blk 149A,98021,Blk 275,98029,Opp Blk 275,98031,Aft Pasir Ris Dr 3,98039,Bef New Loyang Link,98041,Opp Loyang Valley,98049,Loyang Valley,98051,Bef Loyang Way,98059,Aft Loyang Way,98061,Opp Engine Test Facility,98069,Aft Engine Test Facility,98071,LP 80,98079,Bef Engine Test Facility,98231,Loyang Ind Est,98239,Opp Loyang Ind Est,99011,Bef Sch Of Commando,99019,Aft Sch Of Commando,99021,Bef Cranwell Rd,99029,Aft Cranwell Rd,99031,Opp Maranatha B-P Ch,99039,St. George Chapel,99041,Aft Changi Golf Course,99049,Changi Golf Course,E9801,Non Stop
+Pasir Ris Dr 2,98111,Opp Loyang Pt,98119,Loyang Pt
+Loyang Cres,98199,Aft Loyang Way,98209,Encompass Digital Media,98219,Pratt & Whitney Canada,98229,Honey Well
+Flora Rd,98301,Avila Gdns,98309,Carissa Pk
+Mariam Way,98311,Bef Mariam Walk,98319,Aft Ballota Pk
+Changi Village Rd,99009,Changi Village Ter,99129,Changi Village Hotel,99131,Blk 4,99139,Blk 5
+Cranwell Rd,99071,Aft Old Pier Rd,99079,Aft Old Pier Rd
+Netheravon Rd,99081,SIA Sports Club,99089,Opp SIA Sports Club,99091,Bef Turnhouse Rd,99099,Aft Turnhouse Rd,99101,Govt Chalets,99109,Opp Govt Chalets,99111,Changi Golf Club,99119,Opp Changi Golf Club
+Telok Paku Rd,99181,Bef S'pore Aviation Ac,99189,S'pore Aviation Ac,E9901,Non Stop
+High St,E0203,Non Stop
+Coleman St,E0204,Non Stop
+Finalyson Green,E0304,Non Stop,E0305,Non Stop
+Marina Way,E0330,Non Stop
+Marina Link,E0341,Non Stop
+Sth Canal Rd,E0502,Non Stop
+Pickering St,E0503,Non Stop
+Enggor Rd,E0506,Non Stop
+Hoe Chiang Rd,E0507,Non Stop
+Lim Teck Kim Rd,E0509,Non Stop
+Maxwell Rd,E0511,Non Stop,E0599,Non Stop
+Buyong Rd,E0801,Non Stop
+Orchard Link,E0901,Non Stop
+Tanglin Halt Rd,E1100,Non Stop
+Paterson Hill,E1301,Non Stop
+Killiney Rd,E1302,Non Stop
+Martin Rd,E1303,Non Stop
+River Valley Cl,E1304,Non Stop
+West Coast Ferry Rd,E1701,Non Stop
+Yung Kuang Rd,E2101,Non Stop
+Jurong West Ctrl 2,E2200,Non Stop
+Jurong East St 11,E2202,Non Stop
+Cairnhill Rd,E4024,Non Stop
+Elizabeth Dr,E4304,Non Stop
+Bt Batok St 32,E4306,Non Stop
+Senja Way,E4479,Non Stop
+Dairy Farm Rd,E4502,Non Stop
+Jln Pakis,E4504,Non Stop
+Woodlands Dr 63,E4602,Non Stop
+Woodlands Ave 12,E4605,Non Stop
+Causeway,E4610,Non Stop
+Jln Gereja,E4611,Non Stop
+Jln Getark Merah,E4612,Non Stop
+Jln Persiaran Tun Sri Lanang,E4613,Non Stop
+Jln Lingkaran Dalam,E4614,Non Stop
+Jln Tun Dr Ismail,E4616,Non Stop
+Jln Wong Ah Fook,E4617,Non Stop
+Jln Tg Puteri,E4619,Non Stop
+Kim Keat Link,E5204,Non Stop
+Lentor Cres,E5605,Non Stop
+Lentor St,E5607,Non Stop
+Admiralty Lane,E5804,Non Stop
+Whampoa Nth,E6001,Non Stop
+Hougang St 61,E6402,Non Stop
+S'goon Nth Ave 2,E6601,Non Stop
+Rivervale Lane,E6701,Non Stop
+Tampines Ctrl 2,E7508,Non Stop
+Tampines Ctrl 3,E7509,Non Stop
+Tampines St 31,E7605,Non Stop
+Tampines St 12,E7606,Non Stop
+Stadium Dr,E8007,Non Stop
+KJE,KJE,Express
+Kent Ridge Dr,N1601,Opp Fac Of Arts & Social Sc,N1609,Fac Of Arts & Social Sc,N1619,Bef Law Link,N1621,Temasek Hall,N1631,Eusoff Hall
+Nanyang Link,N2779,Hall Of Residence 3,N2789,Hall Of Residence 7
+Anchorvale Link,N6709,Blk 319A
